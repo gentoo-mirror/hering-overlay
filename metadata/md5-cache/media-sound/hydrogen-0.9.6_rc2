@@ -1,0 +1,14 @@
+DEFINED_PHASES=compile configure install prepare test unpack
+DEPEND=dev-qt/qtgui:4 dev-qt/qtcore:4 archive? ( app-arch/libarchive ) !archive? ( >=dev-libs/libtar-1.2.11-r3 ) >=media-libs/libsndfile-1.0.18 alsa? ( media-libs/alsa-lib ) jack? ( media-sound/jack-audio-connection-kit ) ladspa? ( media-libs/liblrdf ) lash? ( virtual/liblash ) portaudio? ( >=media-libs/portaudio-19_pre ) portmidi? ( media-libs/portmidi ) rubberband? ( media-libs/rubberband ) virtual/pkgconfig app-arch/unzip sys-devel/make >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 )
+DESCRIPTION=Advanced drum machine
+EAPI=5
+HOMEPAGE=http://www.hydrogen-music.org
+IUSE=alsa +archive debug jack ladspa lash oss rubberband portaudio portmidi
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2 ZLIB
+RDEPEND=dev-qt/qtgui:4 dev-qt/qtcore:4 archive? ( app-arch/libarchive ) !archive? ( >=dev-libs/libtar-1.2.11-r3 ) >=media-libs/libsndfile-1.0.18 alsa? ( media-libs/alsa-lib ) jack? ( media-sound/jack-audio-connection-kit ) ladspa? ( media-libs/liblrdf ) lash? ( virtual/liblash ) portaudio? ( >=media-libs/portaudio-19_pre ) portmidi? ( media-libs/portmidi ) rubberband? ( media-libs/rubberband )
+SLOT=0
+SRC_URI=mirror://sourceforge/hydrogen/hydrogen-0.9.6-RC2.zip
+_eclass_exported_funcs=src_unpack:base src_prepare:cmake-utils src_configure:- src_compile:cmake-utils src_test:cmake-utils src_install:cmake-utils
+_eclasses_=base	3fe4f8980633fd7bc69e9887209ba2fe	cmake-utils	f16fa5681153277df51f001deaf17ff8	eutils	d9bd2ddd85a58e470b49ca997e255a4c	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_md5_=4307f0b9ebe855900099fd827fd7c9d0
