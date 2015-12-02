@@ -1,4 +1,5 @@
 app-admin/jailkit 2.19: Allows you to easily put programs and users in a chrooted environment
+app-antivirus/clamav 0.99: Clam Anti-Virus Scanner
 app-backup/AutoMySQLBackup 3.0_rc7: Create Daily, Weekly and Monthly backups of MySQL databases.
 app-backup/storebackup 3.5: free, super efficient backup software
 app-crypt/acme 0.0.0.20151123: ACME protocol implementation in Python
