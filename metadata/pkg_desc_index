@@ -1,10 +1,6 @@
 app-admin/jailkit 2.19: Allows you to easily put programs and users in a chrooted environment
 app-backup/AutoMySQLBackup 3.0_rc7: Create Daily, Weekly and Monthly backups of MySQL databases.
 app-backup/storebackup 3.5: free, super efficient backup software
-app-crypt/acme 0.0.0.20151123: ACME protocol implementation in Python
-app-crypt/letsencrypt 0.0.0.20151123: Let's Encrypt client
-app-crypt/letsencrypt-apache 0.0.0.20151123: Apache plugin for Let's Encrypt client
-app-crypt/letsencrypt-nginx 0.0.0.20151123: Nginx plugin for Let's Encrypt client
 app-emulation/wineasio 0.9.2 9999: ASIO driver for WINE
 app-laptop/tpfan-admin 9999: configuration and monitoring interface for app-laptop/tpfand
 app-laptop/tpfand 9999: fan control software for IBM/Lenovo ThinkPads
