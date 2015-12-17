@@ -7,6 +7,7 @@ app-laptop/tpfand 9999: fan control software for IBM/Lenovo ThinkPads
 app-laptop/tpfand-profiles 9999: profiles for app-laptop/tpfand
 app-office/qownnotes 0.57: OwnNotes is a plain-text notepad, that (optionally) works together with the notes application of ownCloud.
 dev-dotnet/taglib-sharp 2.1.0.0: Taglib# 2.0 - Managed tag reader/writer
+dev-php/pecl-apcu 5.1.2: Stripped down version of APC supporting only user cache
 dev-php/pecl-mailparse 2.1.6-r3: A PHP extension for parsing and working with RFC822 and RFC2045 (MIME) compliant messages
 dev-python/python-dmidecode 3.12.2: Python extension module for dmidecode
 games-util/urtconnector 0.9.0: Advanced UrbanTerror launcher program
