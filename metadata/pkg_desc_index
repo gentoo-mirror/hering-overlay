@@ -35,4 +35,6 @@ sys-kernel/rt-sources 4.1.10_p11 4.1.12_p13 4.1.13_p15: Full Linux 4.1 kernel so
 sys-power/phc-intel 0.3.2.12.19: Processor Hardware Control for Intel CPUs
 sys-process/rtirq 20150216: Change the realtime scheduling policy and priority of relevant system driver IRQ handlers
 www-apache/mod_qos 11.19: A QOS module for the apache webserver
+www-apache/mod_security 2.9.0: Web application firewall and Intrusion Detection System for Apache
+www-apache/modsecurity-crs 2.2.9: Core Rule Set for ModSecurity
 www-servers/selenium-server-standalone 2.44.0 2.45.0 2.48.2: Selenium Serer Standalone
