@@ -34,4 +34,5 @@ sys-apps/gentoo-systemd-units 0.2 0.3 9999: some usefull units for systemd on ge
 sys-kernel/rt-sources 4.1.10_p11 4.1.12_p13 4.1.13_p15: Full Linux 4.1 kernel sources with the CONFIG_PREEMPT_RT patch
 sys-power/phc-intel 0.3.2.12.19: Processor Hardware Control for Intel CPUs
 sys-process/rtirq 20150216: Change the realtime scheduling policy and priority of relevant system driver IRQ handlers
+www-apache/mod_qos 11.19: A QOS module for the apache webserver
 www-servers/selenium-server-standalone 2.44.0 2.45.0 2.48.2: Selenium Serer Standalone
