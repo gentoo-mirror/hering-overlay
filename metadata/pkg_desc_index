@@ -5,7 +5,6 @@ app-emulation/wineasio 0.9.2 9999: ASIO driver for WINE
 app-laptop/tpfan-admin 9999: configuration and monitoring interface for app-laptop/tpfand
 app-laptop/tpfand 9999: fan control software for IBM/Lenovo ThinkPads
 app-laptop/tpfand-profiles 9999: profiles for app-laptop/tpfand
-app-office/qownnotes 0.74 0.84 0.91: OwnNotes is a plain-text notepad, that (optionally) works together with the notes application of ownCloud.
 dev-dotnet/gstreamer-sharp 0.99.0: gtk bindings for mono
 dev-dotnet/gtk-sharp 2.99.3: gtk bindings for mono
 dev-dotnet/gudev-sharp 3.0-r2: GUDEV API C# binding
