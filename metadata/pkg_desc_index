@@ -2,19 +2,8 @@ app-admin/jailkit 2.19: Allows you to easily put programs and users in a chroote
 app-backup/AutoMySQLBackup 3.0_rc7: Create Daily, Weekly and Monthly backups of MySQL databases.
 app-backup/storebackup 3.5: free, super efficient backup software
 app-emulation/wineasio 0.9.2 9999: ASIO driver for WINE
-app-laptop/tpfan-admin 9999: configuration and monitoring interface for app-laptop/tpfand
-app-laptop/tpfand 9999: fan control software for IBM/Lenovo ThinkPads
-app-laptop/tpfand-profiles 9999: profiles for app-laptop/tpfand
-dev-dotnet/gstreamer-sharp 0.99.0: gtk bindings for mono
-dev-dotnet/gtk-sharp 2.99.3: gtk bindings for mono
-dev-dotnet/gudev-sharp 3.0-r2: GUDEV API C# binding
-dev-dotnet/mono-addins 0.6.2 1.0-r1: A generic framework for creating extensible applications
-dev-dotnet/mono-upnp 0.1.2: UPNP C# binding
-dev-dotnet/notify-sharp 3.0.3: a C# client implementation for Desktop Notifications
-dev-dotnet/taglib-sharp 2.1.0.0: Taglib# 2.0 - Managed tag reader/writer
 dev-php/PEAR-Crypt_GPG 1.4.0: GNU Privacy Guard (GnuPG)
 dev-php/pecl-mailparse 2.1.6-r3: A PHP extension for parsing and working with RFC822 and RFC2045 (MIME) compliant messages
-dev-python/python-dmidecode 3.12.2: Python extension module for dmidecode
 games-util/urtconnector 0.9.0: Advanced UrbanTerror launcher program
 gnome-extra/nemo-audio-tab 2.8.0: View audio tag information from the file manager's properties tab
 gnome-extra/nemo-emblems 2.6.0 2.8.0: Change your folder and file emblems
@@ -28,7 +17,6 @@ gnome-extra/nemo-seahorse 2.6.0 2.8.0: seahorse plugins and utilities for encryp
 gnome-extra/nemo-share 2.6.0 2.8.0: Nemo extension to share folder using Samba
 gnome-extra/nemo-terminal 2.6.0 2.8.0: Nemo extension to enable an embedded terminal
 media-libs/asio-sdk 2.3: Steinberg ASIO SDK 2.3 - win32
-media-sound/banshee 2.9.1: Import, organize, play, and share your music using a simple and powerful interface
 media-sound/hdj_mod 1.28-r1: GPL Linux MIDI drivers for Hercules DJ midi controller devices
 media-sound/hydrogen 0.9.6_rc2: Advanced drum machine
 media-sound/jack-audio-connection-kit 1.9.10: Jackdmp jack implemention for multi-processor machine
