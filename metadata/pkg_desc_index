@@ -26,7 +26,6 @@ net-print/brother-dcp9020cdw-bin 1.1.2-r1: Brother printer driver for DCP-9020CD
 sci-visualization/circos 0.68.1: Circular layout visualization of genomic and other data
 sys-apps/gentoo-systemd-units 0.2 0.3 9999: some usefull units for systemd on gentoo based systems
 sys-apps/systemd-rt 0.1: Systemd services for rt-kernel
-sys-kernel/rt-sources 4.4.3_p9 4.4.4_p11: Full Linux 4.4 kernel sources with the CONFIG_PREEMPT_RT patch
 sys-power/phc-intel 0.3.2.12.20: Processor Hardware Control for Intel CPUs
 sys-process/rtirq 20150216: Change the realtime scheduling policy and priority of relevant system driver IRQ handlers
 www-apache/mod_qos 11.19: A QOS module for the apache webserver
