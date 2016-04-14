@@ -2,7 +2,6 @@ app-admin/jailkit 2.19: Allows you to easily put programs and users in a chroote
 app-backup/AutoMySQLBackup 3.0_rc7: Create Daily, Weekly and Monthly backups of MySQL databases.
 app-backup/storebackup 3.5: free, super efficient backup software
 app-emulation/wineasio 0.9.2 9999: ASIO driver for WINE
-dev-php/PEAR-Crypt_GPG 1.4.0: GNU Privacy Guard (GnuPG)
 dev-php/pecl-mailparse 2.1.6-r3: A PHP extension for parsing and working with RFC822 and RFC2045 (MIME) compliant messages
 games-util/urtconnector 0.9.0: Advanced UrbanTerror launcher program
 gnome-extra/nemo-audio-tab 2.8.0: View audio tag information from the file manager's properties tab
@@ -23,7 +22,7 @@ media-sound/jack-audio-connection-kit 1.9.10: Jackdmp jack implemention for mult
 media-sound/ladish 1-r2 9999-r2: LADI Session Handler - a session management system for JACK applications
 net-im/skype4pidgin 9999: Skype API PLugin for Pidgin
 net-print/brother-dcp9020cdw-bin 1.1.2-r1: Brother printer driver for DCP-9020CDW & DCP-9022CDW
-sci-visualization/circos 0.68.1: Circular layout visualization of genomic and other data
+sci-visualization/circos 0.68.1 0.69.2: Circular layout visualization of genomic and other data
 sys-apps/gentoo-systemd-units 0.2 0.3 9999: some usefull units for systemd on gentoo based systems
 sys-apps/systemd-rt 0.1: Systemd services for rt-kernel
 sys-power/phc-intel 0.3.2.12.20: Processor Hardware Control for Intel CPUs
@@ -31,5 +30,4 @@ sys-process/rtirq 20150216: Change the realtime scheduling policy and priority o
 www-apache/mod_qos 11.19: A QOS module for the apache webserver
 www-apache/mod_security 2.9.0: Web application firewall and Intrusion Detection System for Apache
 www-apache/modsecurity-crs 2.2.9: Core Rule Set for ModSecurity
-www-servers/selenium-server-standalone 2.44.0 2.45.0 2.48.2: Selenium Serer Standalone
-x11-plugins/purple-facebook 20160126: Facebook protocol plugin for libpurple
+www-servers/selenium-server-standalone 2.44.0 2.45.0 2.48.2 2.53.0: Selenium Serer Standalone
