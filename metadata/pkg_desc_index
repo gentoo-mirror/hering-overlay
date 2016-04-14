@@ -29,4 +29,4 @@ sys-process/rtirq 20150216: Change realtime sched policy & priority of relevant 
 www-apache/mod_qos 11.19: A QOS module for the apache webserver
 www-apache/mod_security 2.9.0: Web application firewall and Intrusion Detection System for Apache
 www-apache/modsecurity-crs 2.2.9: Core Rule Set for ModSecurity
-www-servers/selenium-server-standalone 2.44.0 2.45.0 2.48.2 2.53.0: Selenium Serer Standalone
+www-servers/selenium-server-standalone 2.53.0: Selenium Serer Standalone
