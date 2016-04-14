@@ -1,13 +1,13 @@
-DEFINED_PHASES=compile configure install postinst preinst prepare setup test unpack
+DEFINED_PHASES=compile configure install prepare test
 DEPEND=dev-qt/qtgui:4 games-util/qstat dev-libs/boost dev-db/sqlite:3 sys-devel/make >=dev-util/cmake-2.8.12
 DESCRIPTION=Advanced UrbanTerror launcher program
-EAPI=2
+EAPI=5
 HOMEPAGE=http://code.google.com/p/urtconnector/
 KEYWORDS=~x86 ~amd64
-LICENSE=GPL
-RDEPEND=dev-qt/qtgui:4 games-util/qstat dev-libs/boost dev-db/sqlite:3 games-misc/games-envd
+LICENSE=GPL-3
+RDEPEND=dev-qt/qtgui:4 games-util/qstat dev-libs/boost dev-db/sqlite:3
 SLOT=0
 SRC_URI=http://urtconnector.googlecode.com/files/urtconnector-0.9.0.tar.gz
-_eclass_exported_funcs=pkg_preinst:games pkg_postinst:games pkg_setup:games src_unpack:base src_prepare:cmake-utils src_configure:cmake-utils src_compile:cmake-utils src_test:cmake-utils src_install:cmake-utils
-_eclasses_=base	3fe4f8980633fd7bc69e9887209ba2fe	cmake-utils	422bbd1bee2557490177a34dbe0a662b	eutils	9d81603248f2ba3ec59124320d123e5e	flag-o-matic	d270fa247153df66074f795fa42dba3e	games	2cf0d67d765e6358b435ccda30c13ad8	multilib	23ae8c186171e6476af098d2a50d0ee0	toolchain-funcs	d513d423d449877e49d99af3f7af7acb	user	906f3c8eb3a2350a4f1191a89baa3e46	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
-_md5_=09d67cf1d0ca7ff863849794c6e7bee9
+_eclass_exported_funcs=src_prepare:cmake-utils src_configure:cmake-utils src_compile:cmake-utils src_test:cmake-utils src_install:cmake-utils
+_eclasses_=cmake-utils	422bbd1bee2557490177a34dbe0a662b	eutils	9d81603248f2ba3ec59124320d123e5e	flag-o-matic	d270fa247153df66074f795fa42dba3e	multilib	23ae8c186171e6476af098d2a50d0ee0	toolchain-funcs	d513d423d449877e49d99af3f7af7acb	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_md5_=ceac49314ddfa4e8553ecaa35ee12cb7
