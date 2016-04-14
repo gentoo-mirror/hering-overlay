@@ -10,4 +10,4 @@ SLOT=0
 SRC_URI=https://github.com/linuxmint/nemo-extensions/archive/2.6.x.tar.gz
 _eclass_exported_funcs=src_prepare:-
 _eclasses_=eutils	9d81603248f2ba3ec59124320d123e5e	multilib	23ae8c186171e6476af098d2a50d0ee0	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
-_md5_=a7cc9da99c8d561cec0f3e77aef1cdfc
+_md5_=121f7133a0e7294650898fa4a3a2c152

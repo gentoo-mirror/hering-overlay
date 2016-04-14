@@ -11,4 +11,4 @@ SLOT=0
 SRC_URI=ftp://ftp.hercules.com/pub/webupdate/DJCSeries/Hercules_DJSeries_Linux.tgz
 _eclass_exported_funcs=pkg_preinst:linux-mod pkg_postrm:linux-mod pkg_postinst:linux-mod pkg_setup:linux-mod src_unpack:- src_prepare:- src_configure:- src_compile:linux-mod src_install:linux-mod
 _eclasses_=eutils	9d81603248f2ba3ec59124320d123e5e	linux-info	fd1e29abbb02cbc49f1a14299846e9c4	linux-mod	4755518412586c2fd655ff6e55780bcb	multilib	23ae8c186171e6476af098d2a50d0ee0	toolchain-funcs	d513d423d449877e49d99af3f7af7acb	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
-_md5_=ba12d631d84bcda32597abdfca24f14b
+_md5_=8d146e989bf9e91fec150505f61d66bf
