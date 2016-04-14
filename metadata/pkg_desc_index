@@ -18,8 +18,6 @@ gnome-extra/nemo-share 2.6.0 2.8.0: Nemo extension to share folder using Samba
 gnome-extra/nemo-terminal 2.6.0 2.8.0: Nemo extension to enable an embedded terminal
 media-libs/asio-sdk 2.3: Steinberg ASIO SDK 2.3 - win32
 media-sound/hdj_mod 1.28-r1: GPL Linux MIDI drivers for Hercules DJ midi controller devices
-media-sound/jack-audio-connection-kit 1.9.10: Jackdmp jack implemention for multi-processor machine
-media-sound/ladish 1-r2 9999-r2: LADI Session Handler - a session management system for JACK applications
 net-im/skype4pidgin 9999: Skype API PLugin for Pidgin
 net-print/brother-dcp9020cdw-bin 1.1.2-r1: Brother printer driver for DCP-9020CDW & DCP-9022CDW
 sci-visualization/circos 0.68.1 0.69.2: Circular layout visualization of genomic and other data
