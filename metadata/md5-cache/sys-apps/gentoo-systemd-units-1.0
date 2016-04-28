@@ -11,4 +11,4 @@ SLOT=0
 SRC_URI=https://github.com/internethering/gentoo-systemd-units/archive/1.0.tar.gz -> gentoo-systemd-units-1.0.tar.gz
 _eclass_exported_funcs=src_install:-
 _eclasses_=multilib	23ae8c186171e6476af098d2a50d0ee0	systemd	3165c885f3c71ffae7a867d931fb0e07	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
-_md5_=dd6be956169fb7f0f72ce9f546eb5cc6
+_md5_=5676a88a397c9b0a4602a675fccb394b
