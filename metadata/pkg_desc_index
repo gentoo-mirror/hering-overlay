@@ -24,7 +24,7 @@ media-sound/jack-audio-connection-kit 1.9.10: Jackdmp jack implemention for mult
 net-im/prosody-modules 9999: unofficial modules for prosody
 net-print/brother-dcp9020cdw-bin 1.1.2-r1: Brother printer driver for DCP-9020CDW & DCP-9022CDW
 sci-visualization/circos 0.68.1 0.69.2: Circular layout visualization of genomic and other data
-sys-apps/gentoo-systemd-units 0.2 0.3 0.4 9999: some usefull units for systemd on gentoo based systems
+sys-apps/gentoo-systemd-units 1.0 9999: some usefull units for systemd on gentoo based systems
 sys-power/phc-intel 0.3.2.12.20: Processor Hardware Control for Intel CPUs
 sys-process/rtirq 20150216: Change realtime sched policy & priority of relevant system driver IRQ handlers
 www-apache/mod_qos 11.19: A QOS module for the apache webserver
