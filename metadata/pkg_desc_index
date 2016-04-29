@@ -27,7 +27,7 @@ sci-visualization/circos 0.68.1 0.69.2: Circular layout visualization of genomic
 sys-apps/gentoo-systemd-units 1.0 9999: some usefull units for systemd on gentoo based systems
 sys-power/phc-intel 0.3.2.12.20: Processor Hardware Control for Intel CPUs
 sys-process/rtirq 20150216: Change realtime sched policy & priority of relevant system driver IRQ handlers
-www-apache/mod_qos 11.19: A QOS module for the apache webserver
-www-apache/mod_security 2.9.0: Web application firewall and Intrusion Detection System for Apache
+www-apache/mod_qos 11.19 11.26: A QOS module for the apache webserver
+www-apache/mod_security 2.9.0 2.9.1: Web application firewall and Intrusion Detection System for Apache
 www-apache/modsecurity-crs 2.2.9: Core Rule Set for ModSecurity
 www-servers/selenium-server-standalone 2.53.0: Selenium Serer Standalone
