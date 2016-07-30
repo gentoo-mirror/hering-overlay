@@ -12,6 +12,8 @@ media-sound/jack-audio-connection-kit:dbus - Build jackdbus
 media-sound/jack-audio-connection-kit:ieee1394 - enables support for FFADO - 'BeBoB'
 media-sound/jack-audio-connection-kit:opus - build with compression support using media-libs/opus in netjack
 media-sound/jack-audio-connection-kit:pam - Add basic realime configuration via sys-auth/realtime-base
+net-mail/z-push:caldav - support Caldav
+net-mail/z-push:carddav - support Carddav
 sys-apps/gentoo-systemd-units:amavisd-milter - Install amavisd-milter.service
 sys-apps/gentoo-systemd-units:clamav-unofficial-sigs - Install timer to update clamav-unofficial-sigs
 sys-apps/gentoo-systemd-units:dhparams - Install timer to update dhparams
