@@ -1,12 +1,14 @@
-DEFINED_PHASES=install unpack
-DEPEND=virtual/pkgconfig >=dev-vcs/git-1.8.2.1
+DEFINED_PHASES=install
+DEPEND=virtual/pkgconfig
 DESCRIPTION=some usefull units for systemd on gentoo based systems
 EAPI=5
 HOMEPAGE=https://github.com/internethering/gentoo-systemd-units
 IUSE=opendmarc pure-ftpd spamassassin geoip clamav-unofficial-sigs amavisd-milter rmilter dhparams
+KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 RDEPEND=opendmarc? ( mail-filter/opendmarc ) pure-ftpd? ( net-ftp/pure-ftpd ) spamassassin? ( mail-filter/spamassassin ) geoip? ( dev-libs/geoip ) clamav-unofficial-sigs? ( app-antivirus/clamav-unofficial-sigs ) amavisd-milter? ( mail-filter/amavisd-milter ) rmilter? ( mail-filter/rmilter )
 SLOT=0
-_eclass_exported_funcs=src_unpack:git-r3 src_install:-
-_eclasses_=eutils	b83a2420b796f7c6eff682679d08fe25	git-r3	00f60a84fc7b499c99edfe99caea9f95	multilib	165fc17c38d1b11dac2008280dab6e80	systemd	3165c885f3c71ffae7a867d931fb0e07	toolchain-funcs	6198c04daba0e1307bd844df7d37f423
-_md5_=b1881a24a1177af2e3849a366de22dbc
+SRC_URI=https://github.com/internethering/gentoo-systemd-units/archive/1.1.tar.gz -> gentoo-systemd-units-1.1.tar.gz
+_eclass_exported_funcs=src_install:-
+_eclasses_=multilib	165fc17c38d1b11dac2008280dab6e80	systemd	3165c885f3c71ffae7a867d931fb0e07	toolchain-funcs	6198c04daba0e1307bd844df7d37f423
+_md5_=b272ae606472fba1759026e84580364c
