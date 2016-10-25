@@ -26,7 +26,7 @@ media-libs/libffado 2.2.1-r3: Successor for freebob: Library for accessing BeBoB
 media-sound/hdj_mod 1.28-r1: GPL Linux MIDI drivers for Hercules DJ midi controller devices
 media-sound/jack-audio-connection-kit 1.9.10: Jackdmp jack implemention for multi-processor machine
 net-im/prosody-modules 9999: unofficial modules for prosody
-net-mail/z-push 2.3.0 2.3.1 9999: Z-Push syncs ActiveSync compatible devices against various backends
+net-mail/z-push 2.3.0 2.3.1 2.3.2 9999: Z-Push syncs ActiveSync compatible devices against various backends
 net-print/brother-dcp9020cdw-bin 1.1.2-r1: Brother printer driver for DCP-9020CDW & DCP-9022CDW
 sci-visualization/circos 0.68.1 0.69.2 0.69.3: Circular layout visualization of genomic and other data
 sys-apps/gentoo-systemd-units 1.0 1.1 9999: some usefull units for systemd on gentoo based systems
