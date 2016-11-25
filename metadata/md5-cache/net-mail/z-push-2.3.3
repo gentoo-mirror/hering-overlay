@@ -1,0 +1,13 @@
+DEFINED_PHASES=install
+DESCRIPTION=Z-Push syncs ActiveSync compatible devices against various backends
+EAPI=5
+HOMEPAGE=http://z-push.org/
+IUSE=memcached ldap imap carddav caldav mysql postgres sqlite
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=<dev-lang/php-7[cli,soap,posix] memcached? ( dev-php/pecl-memcached ) !memcached? ( dev-lang/php[pcntl,sysvipc] ) ldap? ( dev-lang/php[ldap] ) imap? ( dev-lang/php[imap] ) caldav? ( dev-lang/php[curl] dev-php/awl ) carddav? ( dev-lang/php[xslt,curl] ) mysql? ( dev-lang/php[pdo,mysql] ) postgres? ( dev-lang/php[pdo,postgres] ) sqlite? ( dev-lang/php[pdo,sqlite] )
+SLOT=0
+SRC_URI=http://download.z-push.org/final/2.3/z-push-2.3.3.tar.gz
+_eclass_exported_funcs=src_install:-
+_eclasses_=eutils	b83a2420b796f7c6eff682679d08fe25	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_md5_=4b5d3bedee5326b615117149130d5ef4
