@@ -4,7 +4,6 @@
 
 dev-php/pecl-memcached:igbinary - Enable support for the igbinary serializer
 dev-php/pecl-memcached:json - Enable support for json serialization
-dev-php/pecl-redis:igbinary - Enable support for the igbinary serializer
 gnome-extra/nemo-gtkhash:gcrypt - Use dev-libs/libgcrypt crypto backend
 gnome-extra/nemo-gtkhash:nettle - Use dev-libs/nettle crypto backend
 gnome-extra/nemo-gtkhash:nss - Use dev-libs/nss crypto backend
