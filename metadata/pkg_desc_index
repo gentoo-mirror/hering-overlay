@@ -10,7 +10,7 @@ dev-php/pecl-geoip 1.1.1-r3: PHP extension to map IP address to geographic place
 dev-php/pecl-imagick 3.4.3_rc1: PHP wrapper for the ImageMagick library
 dev-php/pecl-memcached 3.0.0_alpha1_pre20161206-r1: Interface PHP with memcached via libmemcached library
 dev-python/soundcloud 9999: A friendly wrapper around the Soundcloud API.
-games-util/urtconnector 0.9.0 0.9.0-r1: Advanced UrbanTerror launcher program
+games-util/urtconnector 0.9.0-r1: Advanced UrbanTerror launcher program
 gnome-extra/nemo-audio-tab 2.8.0 3.0.0 3.2.0: View audio tag information from the file manager's properties tab
 gnome-extra/nemo-emblems 2.8.0 3.0.0 3.2.0: Change your folder and file emblems
 gnome-extra/nemo-fileroller 2.8.0 3.0.0 3.2.0: File Roller integration for Nemo
