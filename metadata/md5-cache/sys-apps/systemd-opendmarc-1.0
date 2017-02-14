@@ -9,4 +9,4 @@ RDEPEND=mail-filter/opendmarc
 SLOT=0
 _eclass_exported_funcs=src_install:-
 _eclasses_=multilib	165fc17c38d1b11dac2008280dab6e80	systemd	5b6ca8b2fc1307ca593223f327342c96	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
-_md5_=e17b9602f0d9b0b7777c99c847a67c35
+_md5_=51d32272f77576fdbc55b22b72caebb2
