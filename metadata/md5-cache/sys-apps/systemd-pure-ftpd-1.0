@@ -1,0 +1,12 @@
+DEFINED_PHASES=install
+DEPEND=virtual/pkgconfig
+DESCRIPTION=pure-ftpd systemd service
+EAPI=5
+HOMEPAGE=https://github.com/internethering
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=net-ftp/pure-ftpd
+SLOT=0
+_eclass_exported_funcs=src_install:-
+_eclasses_=multilib	165fc17c38d1b11dac2008280dab6e80	systemd	5b6ca8b2fc1307ca593223f327342c96	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
+_md5_=8fb60a7116e96e7af9bce855e641f836

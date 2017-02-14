@@ -14,14 +14,10 @@ media-sound/jack-audio-connection-kit:opus - build with compression support usin
 media-sound/jack-audio-connection-kit:pam - Add basic realime configuration via sys-auth/realtime-base
 net-mail/z-push:caldav - support Caldav
 net-mail/z-push:carddav - support Carddav
-sys-apps/gentoo-systemd-units:amavisd-milter - Install amavisd-milter.service
-sys-apps/gentoo-systemd-units:clamav-unofficial-sigs - Install timer to update clamav-unofficial-sigs
-sys-apps/gentoo-systemd-units:dhparams - Install timer to update dhparams
-sys-apps/gentoo-systemd-units:geoip - Install timer to run geoipupdate.sh
-sys-apps/gentoo-systemd-units:opendmarc - Install opendmarc.service
-sys-apps/gentoo-systemd-units:pure-ftpd - Install pure-ftpd.service
-sys-apps/gentoo-systemd-units:rmilter - Install rmilter.service
-sys-apps/gentoo-systemd-units:spamassassin - Install timer to run sa-update
+sys-apps/systemd-custom-timer:clamav-unofficial-sigs - Install timer to update clamav-unofficial-sigs
+sys-apps/systemd-custom-timer:dhparams - Install timer to update dhparams
+sys-apps/systemd-custom-timer:geoip - Install timer to run geoipupdate.sh
+sys-apps/systemd-custom-timer:spamassassin - Install timer to run sa-update
 www-apache/mod_security:curl - Build the ModSecurity Audit Log Collector (mlogc) that depends on net-misc/curl.
 www-apache/mod_security:geoip - Configure ModSecurity to query the GeoIP database from MaxMind, provided by dev-libs/geoip. This flag only controls the default configuration, as the GeoIP query code is part of ModSecurity's source code.
 www-apache/mod_security:jit - Add support for the PCRE Just-in-Time optimisation, as enabled by dev-libs/libpcre with jit USE flag enabled. Might not be available on hardened systems.
