@@ -30,6 +30,7 @@ net-p2p/pybitmessage 0.6.1: P2P communications protocol
 sci-visualization/circos 0.69.3 0.69.4: Circular layout visualization of genomic and other data
 sys-apps/systemd-amavisd-milter 1.0: Amavisd-milter systemd service
 sys-apps/systemd-custom-timer 1.0: some custom timer units for systemd on gentoo based systems
+sys-apps/systemd-dovecot-timer 1.0: some dovecot timer units
 sys-apps/systemd-opendmarc 1.0: opendmarc systemd service
 sys-apps/systemd-pure-ftpd 1.0: pure-ftpd systemd service
 sys-apps/systemd-rmilter 1.0: rmilter systemd service
