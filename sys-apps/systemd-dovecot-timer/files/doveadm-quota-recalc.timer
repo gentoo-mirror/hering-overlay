@@ -2,7 +2,7 @@
 Description=doveadm quota recalc
 
 [Timer]
-OnCalendar=daily
+OnCalendar=*-*-* 04:45:00
 
 [Install]
 WantedBy=timers.target
