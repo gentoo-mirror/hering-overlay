@@ -5,6 +5,7 @@ dev-lang/php 7.1.2: The PHP language runtime engine
 dev-perl/Statistics-Basic 1.6601: A collection of very basic statistics modules
 dev-perl/X11-Protocol-Other 29: Miscellaneous helpers for X11::Protocol connections
 dev-php/awl 0.56: Andrew McMillan's Web Libraries
+dev-php/pecl-apcu 5.1.8: Stripped down version of APC supporting only user cache
 dev-php/pecl-geoip 1.1.1-r3: PHP extension to map IP address to geographic places
 games-util/urtconnector 0.9.0-r1: Advanced UrbanTerror launcher program
 gnome-extra/nemo-audio-tab 2.8.0 3.0.0 3.2.0: View audio tag information from the file manager's properties tab
