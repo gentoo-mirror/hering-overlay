@@ -2,33 +2,6 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-dev-lang/php:cli - Enable CLI SAPI
-dev-lang/php:coverage - Include gcov symbols for test coverage and lcov reports. Only useful for extension developers, and requires GCC.
-dev-lang/php:embed - Enable embed SAPI
-dev-lang/php:enchant - Add supports Enchant spelling library.
-dev-lang/php:fileinfo - Add fileinfo extension support
-dev-lang/php:filter - Add filter extension support
-dev-lang/php:fpm - Enable the FastCGI Process Manager SAPI
-dev-lang/php:gd - Adds support for gd (bundled with PHP)
-dev-lang/php:hash - Enable the hash extension
-dev-lang/php:intl - Enables the intl extension for extended internalization support
-dev-lang/php:json - Enable JSON support
-dev-lang/php:ldap-sasl - Add SASL support for the PHP LDAP extension
-dev-lang/php:libmysqlclient - Use libmyslclient driver for mysql, mysqli, PDO_Mysql (not recommended)
-dev-lang/php:opcache - Enables built-in opcode cache, replacing pecl-apc et al.
-dev-lang/php:pdo - Enable the bundled PDO extensions
-dev-lang/php:phar - Enables the phar extension to provide phar archive support
-dev-lang/php:phpdbg - Enable the PHP Debug Command Line SAPI (like gdb for php)
-dev-lang/php:vpx - Enable webp support for GD in php-5.x
-dev-lang/php:webp - Enable webp support for GD in php-7.x
-dev-lang/php:xmlreader - Enable XMLReader support
-dev-lang/php:xmlwriter - Enable XMLWriter support
-dev-lang/php:xslt - Enable the XSL extension
-dev-lang/php:zip - Enable ZIP file support
-dev-php/pecl-apcu:lock_pthreadmutex - Enable pthread mutex locking
-dev-php/pecl-apcu:lock_pthreadrw - Enable pthread read/write locking
-dev-php/pecl-apcu:lock_semaphore - Enable semaphore locks instead of fcntl
-dev-php/pecl-apcu:lock_spinlock - Enable spin locks (EXPERIMENTAL)
 gnome-extra/nemo-gtkhash:gcrypt - Use dev-libs/libgcrypt crypto backend
 gnome-extra/nemo-gtkhash:nettle - Use dev-libs/nettle crypto backend
 gnome-extra/nemo-gtkhash:nss - Use dev-libs/nss crypto backend
