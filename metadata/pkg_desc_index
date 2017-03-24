@@ -24,6 +24,7 @@ media-sound/hdj_mod 1.28-r1: GPL Linux MIDI drivers for Hercules DJ midi control
 media-sound/jack-audio-connection-kit 1.9.10: Jackdmp jack implemention for multi-processor machine
 media-sound/scdl 9999: Soundcloud Music Downloader
 net-im/prosody-modules 9999: unofficial modules for prosody
+net-mail/imapsync 1.727: A tool allowing incremental and recursive IMAP transfers between mailboxes
 net-mail/z-push 2.3.3 2.3.4 9999: Z-Push syncs ActiveSync compatible devices against various backends
 net-misc/clusterssh 4.08: Concurrent Multi-Server Terminal Access
 net-p2p/pybitmessage 0.6.1: P2P communications protocol
