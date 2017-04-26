@@ -25,7 +25,7 @@ media-sound/jack-audio-connection-kit 1.9.10: Jackdmp jack implemention for mult
 media-sound/scdl 9999: Soundcloud Music Downloader
 net-im/prosody-modules 9999: unofficial modules for prosody
 net-mail/imapsync 1.727: A tool allowing incremental and recursive IMAP transfers between mailboxes
-net-mail/z-push 2.3.4 2.3.5 9999: Z-Push syncs ActiveSync compatible devices against various backends
+net-mail/z-push 2.3.4 2.3.5 2.3.6 9999: Z-Push syncs ActiveSync compatible devices against various backends
 net-misc/clusterssh 4.08: Concurrent Multi-Server Terminal Access
 net-p2p/pybitmessage 0.6.1 0.6.2: P2P communications protocol
 sci-visualization/circos 0.69.3 0.69.4: Circular layout visualization of genomic and other data
