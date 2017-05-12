@@ -20,6 +20,7 @@ gnome-extra/nemo-share 2.8.0 3.0.0 3.2.0: Nemo extension to share folder using S
 gnome-extra/nemo-terminal 2.8.0 3.0.0 3.2.0: Nemo extension to enable an embedded terminal
 mail-filter/dovecot-antispam 9999: A dovecot antispam plugin supporting multiple backends
 mail-filter/libspf2 1.2.10-r1: libspf2 implements Sender Policy Framework, a part of the SPF/SRS protocol pair
+mail-filter/opendmarc 1.3.2-r1: Open source DMARC implementation
 media-libs/asio-sdk 2.3: Steinberg ASIO SDK 2.3 - win32
 media-libs/libffado 2.2.1-r3 2.3.0: Successor for freebob: Library for accessing BeBoB IEEE1394 devices
 media-sound/hdj_mod 1.28-r1: GPL Linux MIDI drivers for Hercules DJ midi controller devices
