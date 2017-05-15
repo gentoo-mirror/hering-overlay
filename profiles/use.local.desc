@@ -18,6 +18,3 @@ net-mail/z-push:carddav - support Carddav
 sys-apps/systemd-custom-timer:clamav-unofficial-sigs - Install timer to update clamav-unofficial-sigs
 sys-apps/systemd-custom-timer:dhparams - Install timer to update dhparams
 sys-apps/systemd-custom-timer:geoip - Install timer to run geoipupdate.sh
-www-apache/mod_security:curl - Build the ModSecurity Audit Log Collector (mlogc) that depends on net-misc/curl.
-www-apache/mod_security:geoip - Configure ModSecurity to query the GeoIP database from MaxMind, provided by dev-libs/geoip. This flag only controls the default configuration, as the GeoIP query code is part of ModSecurity's source code.
-www-apache/mod_security:jit - Add support for the PCRE Just-in-Time optimisation, as enabled by dev-libs/libpcre with jit USE flag enabled. Might not be available on hardened systems.
