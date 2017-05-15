@@ -37,8 +37,6 @@ sys-apps/systemd-dovecot-timer 1.0: some dovecot timer units
 sys-apps/systemd-opendmarc 1.0: opendmarc systemd service
 sys-apps/systemd-pure-ftpd 1.0: pure-ftpd systemd service
 sys-apps/systemd-rmilter 1.0: rmilter systemd service
-sys-power/phc-intel 0.3.2.12.20: Processor Hardware Control for Intel CPUs
-sys-process/rtirq 20150216: Change realtime sched policy & priority of relevant system driver IRQ handlers
 www-apache/mod_qos 11.19 11.26 11.31: A QOS module for the apache webserver
 www-servers/selenium-server-standalone 3.0.1 3.3.1: Selenium Serer Standalone
 x11-plugins/pidgin-skypeweb 1.2.2: SkypeWeb Plugin for Pidgin
