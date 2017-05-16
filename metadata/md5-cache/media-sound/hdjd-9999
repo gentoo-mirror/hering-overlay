@@ -1,0 +1,9 @@
+DEFINED_PHASES=install unpack
+DEPEND=>=dev-vcs/git-1.8.2.1
+DESCRIPTION=Hercules DJ Control MP3e2 translation daemon
+EAPI=6
+HOMEPAGE=https://github.com/nealey/hdjd
+SLOT=0
+_eclass_exported_funcs=src_unpack:git-r3 src_install:-
+_eclasses_=git-r3	cbafa3261c37c7e3af44bb16a34ea390
+_md5_=355aad5dea21e77474d4321b452ccc1f
