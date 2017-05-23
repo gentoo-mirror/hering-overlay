@@ -29,7 +29,6 @@ net-im/prosody-modules 9999: unofficial modules for prosody
 net-mail/imapsync 1.727: A tool allowing incremental and recursive IMAP transfers between mailboxes
 net-mail/z-push 2.3.4 2.3.5 2.3.6 9999: Z-Push syncs ActiveSync compatible devices against various backends
 net-misc/clusterssh 4.08 4.09: Concurrent Multi-Server Terminal Access
-net-p2p/zcash-bin 1.0.8-r1: a cryptocurrency that fully protect privacy of transactions
 sci-visualization/circos 0.69.3 0.69.4 0.69.5: Circular layout visualization of genomic and other data
 sys-apps/systemd-amavisd-milter 1.0: Amavisd-milter systemd service
 sys-apps/systemd-custom-timer 1.0: some custom timer units for systemd on gentoo based systems
