@@ -3,8 +3,8 @@ DEPEND=>=dev-vcs/git-1.8.2.1
 DESCRIPTION=Hercules DJ Control MP3e2 translation daemon
 EAPI=6
 HOMEPAGE=https://github.com/nealey/hdjd
-LICENSE=all-rights-reserved
+LICENSE=MIT
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-r3 src_install:-
 _eclasses_=git-r3	cbafa3261c37c7e3af44bb16a34ea390
-_md5_=b8dce06b0a1d9a8870b8f0470d9b4f16
+_md5_=c1a39e3f5f1c0e6ac8adeda6f74cd223
