@@ -23,7 +23,7 @@ mail-filter/libspf2 1.2.10-r1: libspf2 implements Sender Policy Framework, a par
 media-libs/asio-sdk 2.3: Steinberg ASIO SDK 2.3 - win32
 media-libs/libffado 2.2.1-r3 2.3.0: Successor for freebob: Library for accessing BeBoB IEEE1394 devices
 media-sound/hdjd 9999: Hercules DJ Control MP3e2 translation daemon
-media-sound/jack-audio-connection-kit 1.9.10: Jackdmp jack implemention for multi-processor machine
+media-sound/jack-audio-connection-kit 1.9.10 1.9.11_rc1: Jackdmp jack implemention for multi-processor machine
 media-sound/scdl 9999: Soundcloud Music Downloader
 net-im/prosody-modules 9999: unofficial modules for prosody
 net-mail/imapsync 1.727: A tool allowing incremental and recursive IMAP transfers between mailboxes
