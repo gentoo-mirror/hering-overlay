@@ -5,7 +5,6 @@ app-portage/eclean-package 0.1: Cleaning /etc/portage/package.* from unused entr
 dev-perl/Statistics-Basic 1.6601: A collection of very basic statistics modules
 dev-perl/X11-Protocol-Other 29: Miscellaneous helpers for X11::Protocol connections
 dev-php/awl 0.56: Andrew McMillan's Web Libraries
-dev-php/pecl-geoip 1.1.1-r3: PHP extension to map IP address to geographic places
 games-util/urtconnector 0.9.0-r1: Advanced UrbanTerror launcher program
 gnome-extra/nemo-audio-tab 2.8.0 3.0.0 3.2.0 3.4.0: View audio tag information from the file manager's properties tab
 gnome-extra/nemo-emblems 2.8.0 3.0.0 3.2.0 3.4.0: Change your folder and file emblems
