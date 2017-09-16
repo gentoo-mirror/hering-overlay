@@ -6,17 +6,6 @@ dev-perl/Statistics-Basic 1.6601: A collection of very basic statistics modules
 dev-perl/X11-Protocol-Other 29: Miscellaneous helpers for X11::Protocol connections
 dev-php/awl 0.56: Andrew McMillan's Web Libraries
 games-util/urtconnector 0.9.0-r1: Advanced UrbanTerror launcher program
-gnome-extra/nemo-audio-tab 2.8.0 3.0.0 3.2.0 3.4.0: View audio tag information from the file manager's properties tab
-gnome-extra/nemo-emblems 2.8.0 3.0.0 3.2.0 3.4.0: Change your folder and file emblems
-gnome-extra/nemo-fileroller 2.8.0 3.0.0 3.2.0 3.4.0: File Roller integration for Nemo
-gnome-extra/nemo-gtkhash 2.8.0 3.0.0 3.2.0 3.4.0: nemo extension for computing checksums and more using gtkhash
-gnome-extra/nemo-image-converter 2.8.0 3.0.0 3.2.0 3.4.0: nemo extension to mass resize or rotate images
-gnome-extra/nemo-preview 2.8.0 3.0.0 3.2.0 3.4.0: nemo-preview is a quick previewer for nemo
-gnome-extra/nemo-python 2.8.0 3.0.0 3.2.0 3.4.0: Python binding for Nemo components
-gnome-extra/nemo-repairer 2.8.0 3.0.0 3.2.0 3.4.0: Nemo extension for filename encoding repair
-gnome-extra/nemo-seahorse 2.8.0 3.0.0 3.2.0 3.4.0: seahorse plugins and utilities for encryption
-gnome-extra/nemo-share 2.8.0 3.0.0 3.2.0 3.4.0: Nemo extension to share folder using Samba
-gnome-extra/nemo-terminal 2.8.0 3.0.0 3.2.0 3.4.0: Nemo extension to enable an embedded terminal
 mail-filter/dovecot-antispam 9999: A dovecot antispam plugin supporting multiple backends
 mail-filter/libspf2 1.2.10-r1: libspf2 implements Sender Policy Framework, a part of the SPF/SRS protocol pair
 media-libs/asio-sdk 2.3: Steinberg ASIO SDK 2.3 - win32
