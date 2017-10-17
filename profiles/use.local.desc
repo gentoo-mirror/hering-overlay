@@ -5,10 +5,6 @@
 app-antivirus/androguard:graphing - support pydots
 app-antivirus/androguard:gui - Add QT-Gui
 app-antivirus/androguard:magic - support filetype
-dev-python/yara-python:cuckoo - enable "cuckoo" module
-dev-python/yara-python:dotnet - enable "dotnet" module
-dev-python/yara-python:magic - enable "magic" module
-dev-python/yara-python:profiling - enable profiling features
 mail-filter/amavisd-new:courier - Add courier support
 mail-filter/amavisd-new:dkim - Add DomainKeys Identified Mail support
 mail-filter/amavisd-new:peekabooav - Add support for PeekabooAV
