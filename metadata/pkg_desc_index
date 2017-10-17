@@ -1,12 +1,17 @@
 app-admin/jailkit 2.19: Allows you to easily put programs and users in a chrooted environment
+app-antivirus/cuckoo 2.0.4: automated malware analysis system
+app-antivirus/peekabooav 1.2: Peekaboo Extended Email Attachment Behavior Observation Owl
 app-backup/AutoMySQLBackup 3.0_rc7 3.0_rc7-r1: Create Daily, Weekly and Monthly backups of MySQL databases.
 app-emulation/wineasio 0.9.2 9999: ASIO driver for WINE
 app-portage/eclean-package 0.1: Cleaning /etc/portage/package.* from unused entries
 dev-perl/Statistics-Basic 1.6601: A collection of very basic statistics modules
 dev-perl/X11-Protocol-Other 29: Miscellaneous helpers for X11::Protocol connections
 dev-php/awl 0.56: Andrew McMillan's Web Libraries
+dev-python/oletools 0.51: Python tools to analyze security characteristics of MS Office and OLE files
+dev-python/yara-python 3.6.3: Python interface for YARA
 dev-tex/rechnung 3.10: LaTeX module to create invoices
 games-util/urtconnector 0.9.0-r1: Advanced UrbanTerror launcher program
+mail-filter/amavisd-new 2.11.0-r4: High-performance interface between the MTA and content checkers
 mail-filter/dovecot-antispam 9999: A dovecot antispam plugin supporting multiple backends
 mail-filter/libspf2 1.2.10-r1: libspf2 implements Sender Policy Framework, a part of the SPF/SRS protocol pair
 media-libs/asio-sdk 2.3: Steinberg ASIO SDK 2.3 - win32
@@ -17,8 +22,8 @@ media-sound/scdl 9999: Soundcloud Music Downloader
 net-im/prosody-modules 9999: unofficial modules for prosody
 net-mail/z-push 2.3.7 2.3.8 9999: Z-Push syncs ActiveSync compatible devices against various backends
 net-misc/clusterssh 4.09 4.10.1 4.10.2: Concurrent Multi-Server Terminal Access
-net-p2p/monero 0.10.3.1 0.11.0.0 9999: Monero: the secure, private, untraceable cryptocurrency
-net-p2p/monero-core 0.10.3.1 0.11.0.0 9999: Monero Gui: the secure, private, untraceable cryptocurrency
+net-p2p/monero 0.11.0.0 9999: Monero: the secure, private, untraceable cryptocurrency
+net-p2p/monero-core 0.11.0.0 9999: Monero Gui: the secure, private, untraceable cryptocurrency
 sci-visualization/circos 0.69.5 0.69.6: Circular layout visualization of genomic and other data
 sys-apps/systemd-amavisd-milter 1.0: Amavisd-milter systemd service
 sys-apps/systemd-custom-timer 1.0: some custom timer units for systemd on gentoo based systems

@@ -2,6 +2,17 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+dev-python/yara-python:cuckoo - enable "cuckoo" module
+dev-python/yara-python:dotnet - enable "dotnet" module
+dev-python/yara-python:magic - enable "magic" module
+dev-python/yara-python:profiling - enable profiling features
+mail-filter/amavisd-new:courier - Add courier support
+mail-filter/amavisd-new:dkim - Add DomainKeys Identified Mail support
+mail-filter/amavisd-new:peekabooav - Add support for PeekabooAV
+mail-filter/amavisd-new:qmail - Add qmail support
+mail-filter/amavisd-new:razor - Add support for mail-filter/razor
+mail-filter/amavisd-new:spamassassin - Add support for mail-filter/spamassassin
+mail-filter/amavisd-new:zmq - Add support for zeromq sockets
 mail-filter/dovecot-antispam:spamassassin - install sa-learn pipe script
 media-libs/libffado:test-programs - Install programs for testing of various ffado functions
 media-sound/jack-audio-connection-kit:celt - Use media-libs/celt

@@ -9,4 +9,4 @@ LICENSE=GPL-2
 RDEPEND=dev-lang/php:*[pdo,xml]
 SLOT=0
 SRC_URI=https://gitlab.com/davical-project/awl/repository/archive.tar.gz?ref=r0.56 -> awl-0.56.tar.gz
-_md5_=090a45af82a9cdd6e55b78e2dbadbf58
+_md5_=1fc51884d7c3387e77668a3c2a301b75

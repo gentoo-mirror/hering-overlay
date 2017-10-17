@@ -8,4 +8,4 @@ LICENSE=GPL-2
 RDEPEND=>=net-mail/dovecot-2.1.16
 SLOT=0
 _eclasses_=git-r3	52a888802d25387c2c74cb845d1219bc
-_md5_=cb910a502fb74b44387aab253cb80e16
+_md5_=266b2ef7a5450368fc496adbd9db9fea

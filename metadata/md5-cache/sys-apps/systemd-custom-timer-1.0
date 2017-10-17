@@ -9,4 +9,4 @@ LICENSE=GPL-3
 RDEPEND=geoip? ( dev-libs/geoip ) clamav-unofficial-sigs? ( app-antivirus/clamav-unofficial-sigs )
 SLOT=0
 _eclasses_=multilib	97f470f374f2e94ccab04a2fb21d811e	systemd	34815d3b76e745c5ca33eec9f95074c2	toolchain-funcs	185a06792159ca143528e7010368e8af
-_md5_=87220ba3a10ec89c761e4ef779dbb10b
+_md5_=6e11aa40b1b582f94fe1f4a848512651
