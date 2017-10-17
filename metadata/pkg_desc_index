@@ -26,6 +26,6 @@ sys-apps/systemd-dovecot-timer 1.0: some dovecot timer units
 sys-apps/systemd-opendmarc 1.0: opendmarc systemd service
 sys-apps/systemd-pure-ftpd 1.0: pure-ftpd systemd service
 sys-apps/systemd-rmilter 1.0: rmilter systemd service
-sys-kernel/pf-sources 4.11_p7 4.12_p5 4.12_p8 4.13_p3 4.13_p4: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
+sys-kernel/pf-sources 4.11_p7 4.12_p8 4.13_p9: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
 www-apache/mod_qos 11.42b 11.43: A QOS module for the apache webserver
 www-servers/selenium-server-standalone 3.5.3 3.6.0: Selenium Serer Standalone
