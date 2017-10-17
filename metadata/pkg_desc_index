@@ -1,4 +1,5 @@
 app-admin/jailkit 2.19: Allows you to easily put programs and users in a chrooted environment
+app-antivirus/androguard 3.1.0_pre2: Reverse engineering, Malware and goodware analysis of Android applications
 app-antivirus/cuckoo 2.0.4: automated malware analysis system
 app-antivirus/peekabooav 1.2: Peekaboo Extended Email Attachment Behavior Observation Owl
 app-backup/AutoMySQLBackup 3.0_rc7 3.0_rc7-r1: Create Daily, Weekly and Monthly backups of MySQL databases.
@@ -7,7 +8,15 @@ app-portage/eclean-package 0.1: Cleaning /etc/portage/package.* from unused entr
 dev-perl/Statistics-Basic 1.6601: A collection of very basic statistics modules
 dev-perl/X11-Protocol-Other 29: Miscellaneous helpers for X11::Protocol connections
 dev-php/awl 0.56: Andrew McMillan's Web Libraries
+dev-python/SFlock 0.2.17: Sample staging and detonation utility
+dev-python/egghatch 0.2.1: Cuckoo Sandbox Shellcode Identification & Formatting
+dev-python/jsbeautifier 1.7.4: JavaScript unobfuscator and beautifier.
 dev-python/oletools 0.51: Python tools to analyze security characteristics of MS Office and OLE files
+dev-python/peepdf 0.3.6: PDF Analysis Tool
+dev-python/pefile2 1.2.11: Python PE parsing module
+dev-python/pymisp 2.4.81: Python API for MISP.
+dev-python/unicorn 1.0.1: Unicorn CPU emulator engine
+dev-python/wakeonlan 0.2.2: A small python module for wake on lan.
 dev-python/yara-python 3.6.3: Python interface for YARA
 dev-tex/rechnung 3.10: LaTeX module to create invoices
 games-util/urtconnector 0.9.0-r1: Advanced UrbanTerror launcher program

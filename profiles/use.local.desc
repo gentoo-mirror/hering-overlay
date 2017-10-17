@@ -2,6 +2,9 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+app-antivirus/androguard:graphing - support pydots
+app-antivirus/androguard:gui - Add QT-Gui
+app-antivirus/androguard:magic - support filetype
 dev-python/yara-python:cuckoo - enable "cuckoo" module
 dev-python/yara-python:dotnet - enable "dotnet" module
 dev-python/yara-python:magic - enable "magic" module
