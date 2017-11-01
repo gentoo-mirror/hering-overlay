@@ -42,5 +42,6 @@ sys-apps/systemd-opendmarc 1.0: opendmarc systemd service
 sys-apps/systemd-pure-ftpd 1.0: pure-ftpd systemd service
 sys-apps/systemd-rmilter 1.0: rmilter systemd service
 sys-kernel/pf-sources 4.11_p7 4.12_p8 4.13_p9 4.13_p10 4.13_p11: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
+sys-kernel/rt-sources 4.13.10_p3: Full Linux 4.13 kernel sources with the CONFIG_PREEMPT_RT patch
 www-apache/mod_qos 11.43 11.44: A QOS module for the apache webserver
 www-servers/selenium-server-standalone 3.5.3 3.6.0: Selenium Serer Standalone
