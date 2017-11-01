@@ -28,6 +28,7 @@ media-libs/libffado 2.2.1-r3 2.3.0: Successor for freebob: Library for accessing
 media-sound/hdjd 9999: Hercules DJ Control MP3e2 translation daemon
 media-sound/jack-audio-connection-kit 1.9.10 1.9.11_rc1: Jackdmp jack implemention for multi-processor machine
 media-sound/scdl 9999: Soundcloud Music Downloader
+media-video/filebot 4.7.9: Java-based tools to rename TV shows, download subtitles, and validate checksums
 net-im/prosody-modules 9999: unofficial modules for prosody
 net-mail/z-push 2.3.7 2.3.8 9999: Z-Push syncs ActiveSync compatible devices against various backends
 net-misc/clusterssh 4.09 4.10.1 4.10.2: Concurrent Multi-Server Terminal Access
@@ -40,6 +41,6 @@ sys-apps/systemd-dovecot-timer 1.0: some dovecot timer units
 sys-apps/systemd-opendmarc 1.0: opendmarc systemd service
 sys-apps/systemd-pure-ftpd 1.0: pure-ftpd systemd service
 sys-apps/systemd-rmilter 1.0: rmilter systemd service
-sys-kernel/pf-sources 4.11_p7 4.12_p8 4.13_p9 4.13_p10: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
-www-apache/mod_qos 11.42b 11.43: A QOS module for the apache webserver
+sys-kernel/pf-sources 4.11_p7 4.12_p8 4.13_p9 4.13_p10 4.13_p11: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
+www-apache/mod_qos 11.43 11.44: A QOS module for the apache webserver
 www-servers/selenium-server-standalone 3.5.3 3.6.0: Selenium Serer Standalone
