@@ -30,4 +30,3 @@ net-p2p/monero-core:qrcode - Build with QR-Code-scanner.
 sys-apps/systemd-custom-timer:clamav-unofficial-sigs - Install timer to update clamav-unofficial-sigs
 sys-apps/systemd-custom-timer:dhparams - Install timer to update dhparams
 sys-apps/systemd-custom-timer:geoip - Install timer to run geoipupdate.sh
-sys-kernel/rt-sources:deblob - Remove binary blobs from kernel sources to provide libre license compliance.
