@@ -2,31 +2,3 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-app-antivirus/androguard:graphing - support pydots
-app-antivirus/androguard:gui - Add QT-Gui
-app-antivirus/androguard:magic - support filetype
-mail-filter/amavisd-new:courier - Add courier support
-mail-filter/amavisd-new:dkim - Add DomainKeys Identified Mail support
-mail-filter/amavisd-new:peekabooav - Add support for PeekabooAV
-mail-filter/amavisd-new:qmail - Add qmail support
-mail-filter/amavisd-new:razor - Add support for mail-filter/razor
-mail-filter/amavisd-new:spamassassin - Add support for mail-filter/spamassassin
-mail-filter/amavisd-new:zmq - Add support for zeromq sockets
-mail-filter/dovecot-antispam:spamassassin - install sa-learn pipe script
-media-libs/libffado:test-programs - Install programs for testing of various ffado functions
-media-sound/jack-audio-connection-kit:celt - Use media-libs/celt
-media-sound/jack-audio-connection-kit:dbus - Build jackdbus
-media-sound/jack-audio-connection-kit:ieee1394 - enables support for FFADO - 'BeBoB'
-media-sound/jack-audio-connection-kit:opus - build with compression support using media-libs/opus in netjack
-media-sound/jack-audio-connection-kit:pam - Add basic realime configuration via sys-auth/realtime-base
-net-mail/z-push:caldav - support Caldav
-net-mail/z-push:carddav - support Carddav
-net-p2p/monero:ldns - Use LDNS as SSL toolkit
-net-p2p/monero:munin - Install a plugin for net-analyzer/munin to graph statistical data from monero
-net-p2p/monero:utils - Install additional tools
-net-p2p/monero-core:daemon - Build monerod or install net-p2p/monero
-net-p2p/monero-core:ldns - Use LDNS as SSL toolkit.
-net-p2p/monero-core:qrcode - Build with QR-Code-scanner.
-sys-apps/systemd-custom-timer:clamav-unofficial-sigs - Install timer to update clamav-unofficial-sigs
-sys-apps/systemd-custom-timer:dhparams - Install timer to update dhparams
-sys-apps/systemd-custom-timer:geoip - Install timer to run geoipupdate.sh
