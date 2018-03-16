@@ -9,4 +9,4 @@ LICENSE=GPL-3
 RDEPEND=>=net-mail/dovecot-2.3[sieve] !mail-filter/dovecot-antispam
 REQUIRED_USE=^^ ( spamassassin dspam rspamd )
 SLOT=0
-_md5_=3dfd6e2e41e21b88c761fdacffd95dd7
+_md5_=c20e8da91e7d3dee914b6b79b9090c5d
