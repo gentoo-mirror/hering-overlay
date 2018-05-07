@@ -7,5 +7,5 @@ IUSE=spamassassin
 LICENSE=GPL-2
 RDEPEND=>=net-mail/dovecot-2.1.16
 SLOT=0
-_eclasses_=git-r3	25b08efef07cea6bcd45b8c6dcce2782
+_eclasses_=git-r3	af51ccfceeb403ab80f1bf9209d372c8
 _md5_=266b2ef7a5450368fc496adbd9db9fea
