@@ -8,5 +8,5 @@ RDEPEND=media-libs/libpng x11-libs/libX11 x11-libs/libxcb media-libs/freetype x1
 RESTRICT=mirror
 SLOT=0
 SRC_URI=x86? ( https://www.dropbox.com/s/kebk1b5ib1m3xxw/SoulseekQt-2016-1-17-32bit.tgz ) amd64? ( https://www.dropbox.com/s/7qh902qv2sxyp6p/SoulseekQt-2016-1-17-64bit.tgz )
-_eclasses_=desktop	2ccd1dd1dd7bfb8795eea024a4f91bb6
+_eclasses_=desktop	1b286a7e7143d8c4ec89cd0d2743a097
 _md5_=627155790a581c6feb5cddba91d8eb00
