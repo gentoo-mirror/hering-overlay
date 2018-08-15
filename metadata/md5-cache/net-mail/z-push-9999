@@ -7,5 +7,5 @@ IUSE=memcached ldap imap carddav caldav mysql postgres sqlite
 LICENSE=GPL-3
 RDEPEND=<dev-lang/php-7[cli,soap,posix] memcached? ( dev-php/pecl-memcached ) !memcached? ( dev-lang/php[pcntl,sysvipc] ) ldap? ( dev-lang/php[ldap] ) imap? ( dev-lang/php[imap] ) caldav? ( dev-lang/php[curl] dev-php/awl ) carddav? ( dev-lang/php[xslt,curl] ) mysql? ( dev-lang/php[pdo,mysql] ) postgres? ( dev-lang/php[pdo,postgres] ) sqlite? ( dev-lang/php[pdo,sqlite] )
 SLOT=0
-_eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	git-r3	8f6de46b0aa318aea0e8cac62ece098b	versionator	26ca8a8bd95d6a74122c08ba98a4ee72
+_eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	git-r3	918d6a744039c29af2cadc7317459765	versionator	2352c3fc97241f6a02042773c8287748
 _md5_=51727af724df9ced69843c93c47c6b7b
