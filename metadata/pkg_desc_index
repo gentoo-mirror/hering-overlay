@@ -1,5 +1,1 @@
-dev-php/pecl-apcu 4.0.11-r1 5.1.8-r1: Stripped down version of APC supporting only user cache
-dev-php/pecl-apcu_bc 1.0.3-r2: Provides APC backwards compatibility functions via APCu
-dev-php/pecl-geoip 1.1.1-r4: PHP extension to map IP address to geographic places
-dev-php/pecl-mailparse 2.1.6-r5 3.0.2-r1: PHP extension for parsing and working with RFC822 and MIME compliant messages
 mail-filter/libspf2 1.2.10-r1: libspf2 implements Sender Policy Framework, a part of the SPF/SRS protocol pair
