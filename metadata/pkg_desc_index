@@ -1,1 +1,2 @@
+dev-php/pecl-mailparse 3.0.2-r2: PHP extension for parsing and working with RFC822 and MIME compliant messages
 mail-filter/libspf2 1.2.10-r1: libspf2 implements Sender Policy Framework, a part of the SPF/SRS protocol pair
