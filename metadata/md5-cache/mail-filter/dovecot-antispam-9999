@@ -5,7 +5,8 @@ EAPI=5
 HOMEPAGE=http://wiki2.dovecot.org/Plugins/Antispam/
 IUSE=spamassassin
 LICENSE=GPL-2
+PROPERTIES=live
 RDEPEND=>=net-mail/dovecot-2.1.16
 SLOT=0
-_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
+_eclasses_=git-r3	562b380fc59ae6a8622171d0acb777d1
 _md5_=266b2ef7a5450368fc496adbd9db9fea
