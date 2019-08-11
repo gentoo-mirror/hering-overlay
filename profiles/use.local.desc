@@ -2,3 +2,19 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+mail-filter/dovecot-antispam:spamassassin - install sa-learn pipe script
+mail-filter/dovecot-antispam-sieve:dspam - install ds-learn pipe script
+mail-filter/dovecot-antispam-sieve:rspamd - install rs-learn pipe script
+mail-filter/dovecot-antispam-sieve:spamassassin - install sa-learn pipe script
+net-mail/z-push:caldav - support Caldav
+net-mail/z-push:carddav - support Carddav
+net-p2p/monero:ldns - Use LDNS as SSL toolkit
+net-p2p/monero:munin - Install a plugin for net-analyzer/munin to graph statistical data from monero
+net-p2p/monero:utils - Install additional tools
+net-p2p/monero-core:daemon - Build monerod or install net-p2p/monero
+net-p2p/monero-core:ldns - Use LDNS as SSL toolkit.
+net-p2p/monero-core:qrcode - Build with QR-Code-scanner.
+sys-apps/systemd-custom-timer:clamav-unofficial-sigs - Install timer to update clamav-unofficial-sigs
+sys-apps/systemd-custom-timer:dhparams - Install timer to update dhparams
+sys-apps/systemd-custom-timer:geoip - Install timer to run geoipupdate.sh
+sys-kernel/rt-sources:deblob - Remove binary blobs from kernel sources to provide libre license compliance.
