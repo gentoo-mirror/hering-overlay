@@ -15,7 +15,7 @@ media-sound/hdjd 9999: Hercules DJ Control MP3e2 translation daemon
 media-sound/scdl 9999: Soundcloud Music Downloader
 media-video/filebot 4.7.9: Java-based tools to rename TV shows, download subtitles, and validate checksums
 net-im/prosody-modules 9999: unofficial modules for prosody
-net-mail/z-push 2.4.5 2.5.0 9999: Z-Push syncs ActiveSync compatible devices against various backends
+net-mail/z-push 2.4.5 2.5.0 2.5.1 9999: Z-Push syncs ActiveSync compatible devices against various backends
 net-misc/clusterssh 4.13 4.13.2: Concurrent Multi-Server Terminal Access
 net-p2p/monero 0.13.0.4 9999: Monero: the secure, private, untraceable cryptocurrency
 net-p2p/monero-core 0.13.0.4 9999: Monero Gui: the secure, private, untraceable cryptocurrency
