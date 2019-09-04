@@ -16,7 +16,7 @@ media-sound/scdl 9999: Soundcloud Music Downloader
 media-video/filebot 4.7.9: Java-based tools to rename TV shows, download subtitles, and validate checksums
 net-im/prosody-modules 9999: unofficial modules for prosody
 net-mail/z-push 2.4.5 2.5.0 2.5.1 9999: Z-Push syncs ActiveSync compatible devices against various backends
-net-misc/clusterssh 4.13 4.13.2: Concurrent Multi-Server Terminal Access
+net-misc/clusterssh 4.13 4.13.2 4.14: Concurrent Multi-Server Terminal Access
 net-p2p/monero 0.13.0.4 9999: Monero: the secure, private, untraceable cryptocurrency
 net-p2p/monero-core 0.13.0.4 9999: Monero Gui: the secure, private, untraceable cryptocurrency
 net-p2p/soulseek-qt 20160117-r1: Official binary Qt SoulSeek client
@@ -27,6 +27,8 @@ sys-apps/systemd-dovecot-timer 1.1: some dovecot timer units
 sys-apps/systemd-pure-ftpd 1.0: pure-ftpd systemd service
 sys-apps/systemd-rmilter 1.0: rmilter systemd service
 sys-kernel/pf-sources 4.16_p7 4.17_p6 4.18_p9 4.18_p10 4.19_p8 4.20_p6 5.0_p8 5.1_p7 5.2_p3 5.2_p5: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
-sys-kernel/rt-sources 4.19.25_p16 4.19.31_p18 4.19.37_p19 5.0.14_p9 5.0.19_p11 5.0.21_p14 5.2.9_p3: Full Linux 5.2 kernel sources with the CONFIG_PREEMPT_RT patch
+sys-kernel/rt-sources 4.19.25_p16 4.19.31_p18 4.19.37_p19 5.0.14_p9 5.0.19_p11 5.0.21_p14 5.2.9_p3 5.2.10_p5: Full Linux 5.2 kernel sources with the CONFIG_PREEMPT_RT patch
 www-apache/mod_qos 11.62 11.63: A QOS module for the apache webserver
 www-servers/selenium-server-standalone 3.14.0 3.141.5: Selenium Serer Standalone
+x11-plugins/pidgin-icyque 9999: ICQ WIM protocol for libpurple
+x11-plugins/purple-gowhatsapp 9999: A libpurple/Pidgin plugin for WhatsApp Web.
