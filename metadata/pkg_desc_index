@@ -4,7 +4,7 @@ app-emulation/wineasio 0.9.2: ASIO driver for WINE
 app-portage/eclean-package 0.1: Cleaning /etc/portage/package.* from unused entries
 dev-perl/Statistics-Basic 1.6601: A collection of very basic statistics modules
 dev-perl/X11-Protocol-Other 29: Miscellaneous helpers for X11::Protocol connections
-dev-php/awl 0.56 0.59: Andrew McMillan's Web Libraries
+dev-php/awl 0.56 0.59 0.60: Andrew McMillan's Web Libraries
 dev-php/pecl-mailparse 3.0.2-r2: PHP extension for parsing and working with RFC822 and MIME compliant messages
 dev-tex/rechnung 3.10: LaTeX module to create invoices
 mail-filter/dovecot-antispam 9999: A dovecot antispam plugin supporting multiple backends
@@ -12,6 +12,7 @@ mail-filter/dovecot-antispam-sieve 1.0-r1: Integrates spam learning into Dovecot
 mail-filter/libspf2 1.2.10-r1: libspf2 implements Sender Policy Framework, a part of the SPF/SRS protocol pair
 media-libs/asio-sdk 2.3.1: Steinberg ASIO SDK 2.3 - win32
 media-sound/hdjd 9999: Hercules DJ Control MP3e2 translation daemon
+media-sound/jack2 1.9.13: Jackdmp jack implemention for multi-processor machine
 media-sound/scdl 9999: Soundcloud Music Downloader
 media-video/filebot 4.7.9: Java-based tools to rename TV shows, download subtitles, and validate checksums
 net-im/prosody-modules 9999: unofficial modules for prosody
@@ -26,9 +27,8 @@ sys-apps/systemd-custom-timer 1.0: some custom timer units for systemd on gentoo
 sys-apps/systemd-dovecot-timer 1.1: some dovecot timer units
 sys-apps/systemd-pure-ftpd 1.0: pure-ftpd systemd service
 sys-apps/systemd-rmilter 1.0: rmilter systemd service
-sys-kernel/pf-sources 4.16_p7 4.17_p6 4.18_p9 4.18_p10 4.19_p8 4.20_p6 5.0_p8 5.1_p7 5.2_p5 5.3_p1: Linux kernel fork with new features (-ck patchset (BFS), BFQ, TuxOnIce and UKSM)
-sys-kernel/rt-sources 4.19.25_p16 4.19.31_p18 4.19.37_p19 5.0.14_p9 5.0.19_p11 5.0.21_p14 5.2.9_p3 5.2.10_p5: Full Linux 5.2 kernel sources with the CONFIG_PREEMPT_RT patch
-www-apache/mod_qos 11.62 11.63: A QOS module for the apache webserver
+sys-kernel/rt-sources 4.19.25_p16 4.19.31_p18 4.19.37_p19 5.0.14_p9 5.0.19_p11 5.0.21_p14 5.2.10_p5 5.2.19_p11: Full Linux 5.2 kernel sources with the CONFIG_PREEMPT_RT patch
+www-apache/mod_qos 11.63 11.64: A QOS module for the apache webserver
 www-servers/selenium-server-standalone 3.14.0 3.141.5: Selenium Serer Standalone
 x11-plugins/pidgin-icyque 9999: ICQ WIM protocol for libpurple
 x11-plugins/purple-gowhatsapp 9999: A libpurple/Pidgin plugin for WhatsApp Web.
