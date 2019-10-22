@@ -16,7 +16,7 @@ KEYWORDS="~amd64"
 IUSE=""
 
 DEPEND=""
-RDEPEND="media-libs/libpng x11-libs/libX11 x11-libs/libxcb media-libs/freetype x11-libs/libXau x11-libs/libXdmcp dev-libs/libbsd dev-libs/expat"
+RDEPEND="media-libs/libpng x11-libs/libX11 x11-libs/libxcb media-libs/freetype x11-libs/libXau x11-libs/libXdmcp dev-libs/libbsd dev-libs/expat sys-libs/libselinux"
 
 S="${WORKDIR}"
 
@@ -33,5 +33,5 @@ src_install() {
 	into /opt
 	newbin "${BINARY_NAME}".AppImage "${PN}"
 	doicon "${DISTDIR}/slsk.png"
-	make_desktop_entry "/opt/bin/soulseek-qt %u" "Soulseek" "slsk" "Network;P2P;" "Terminal=false"
+	make_desktop_entry "soulseek-qt" "Soulseek" "slsk" "Network;FileTransfer;" "/opt/bin/"
 }
