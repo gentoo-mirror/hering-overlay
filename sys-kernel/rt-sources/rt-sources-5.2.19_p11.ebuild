@@ -7,9 +7,9 @@ KEYWORDS="~amd64"
 
 HOMEPAGE="https://www.kernel.org/pub/linux/kernel/projects/rt/"
 
-inherit versionator
+inherit eapi7-ver
 
-CKV="$(get_version_component_range 1-3)"
+CKV="$(ver_cut 1-3)"
 K_SECURITY_UNSUPPORTED="1"
 K_DEBLOB_AVAILABLE="1"
 RT_PATCHSET="${PV/*_p}"
@@ -19,8 +19,8 @@ detect_version
 
 K_BRANCH_ID="${KV_MAJOR}.${KV_MINOR}"
 RT_FILE="patch-${K_BRANCH_ID}.${KV_PATCH}-rt${RT_PATCHSET}.patch.xz"
-RT_URI="mirror://kernel/linux/kernel/projects/rt/${K_BRANCH_ID}/${RT_FILE} \
-		mirror://kernel/linux/kernel/projects/rt/${K_BRANCH_ID}/older/${RT_FILE}"
+RT_URI="https://www.kernel.org/pub/linux/kernel/projects/rt/${K_BRANCH_ID}/${RT_FILE} \
+		https://www.kernel.org/pub/linux/kernel/projects/rt/${K_BRANCH_ID}/older/${RT_FILE}"
 
 DESCRIPTION="Full Linux ${K_BRANCH_ID} kernel sources with the CONFIG_PREEMPT_RT patch"
 SRC_URI="${KERNEL_URI} ${RT_URI}"
