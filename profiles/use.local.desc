@@ -7,6 +7,7 @@ mail-filter/dovecot-antispam-sieve:dspam - install ds-learn pipe script
 mail-filter/dovecot-antispam-sieve:rspamd - install rs-learn pipe script
 mail-filter/dovecot-antispam-sieve:spamassassin - install sa-learn pipe script
 media-sound/jack2:classic - Enable building of jackd
+media-sound/jack2:metadata - Enable metadata API
 media-sound/jack2:pam - Add basic realtime configuration via sys-auth/realtime-base
 net-mail/z-push:caldav - support Caldav
 net-mail/z-push:carddav - support Carddav
