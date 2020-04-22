@@ -4,7 +4,7 @@ app-emulation/wineasio 0.9.2: ASIO driver for WINE
 app-portage/eclean-package 0.1: Cleaning /etc/portage/package.* from unused entries
 dev-perl/Statistics-Basic 1.6601 1.6611: A collection of very basic statistics modules
 dev-perl/X11-Protocol-Other 29 30 31: Miscellaneous helpers for X11::Protocol connections
-dev-php/awl 0.56 0.59 0.60: Andrew McMillan's Web Libraries
+dev-php/awl 0.61: Andrew McMillan's Web Libraries
 dev-tex/rechnung 3.10: LaTeX module to create invoices
 mail-filter/dovecot-antispam 9999: A dovecot antispam plugin supporting multiple backends
 mail-filter/dovecot-antispam-sieve 1.0-r1: Integrates spam learning into Dovecot by Sieve
