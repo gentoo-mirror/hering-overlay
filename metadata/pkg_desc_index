@@ -9,6 +9,7 @@ dev-tex/rechnung 3.10: LaTeX module to create invoices
 mail-filter/dovecot-antispam 9999: A dovecot antispam plugin supporting multiple backends
 mail-filter/dovecot-antispam-sieve 1.0-r1: Integrates spam learning into Dovecot by Sieve
 media-libs/asio-sdk 2.3.1: Steinberg ASIO SDK 2.3 - win32
+media-libs/libffado 2.4.3: Driver for IEEE1394 (Firewire) audio interfaces
 media-sound/hdjd 9999: Hercules DJ Control MP3e2 translation daemon
 media-sound/jack2 1.9.14: Jackdmp jack implemention for multi-processor machine
 media-sound/scdl 9999: Soundcloud Music Downloader
