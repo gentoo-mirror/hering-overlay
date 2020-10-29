@@ -3,7 +3,6 @@
 # * generated automatically using pmaint *
 
 mail-filter/dovecot-antispam:spamassassin - install sa-learn pipe script
-mail-filter/dovecot-antispam-sieve:dspam - install ds-learn pipe script
 mail-filter/dovecot-antispam-sieve:rspamd - install rs-learn pipe script
 mail-filter/dovecot-antispam-sieve:spamassassin - install sa-learn pipe script
 media-libs/libffado:test-programs - Install standalone test programs
