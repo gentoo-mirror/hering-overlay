@@ -1,3 +1,4 @@
+app-admin/jailkit 2.21 9999: Allows you to easily put programs and users in a chrooted environment
 app-backup/AutoMySQLBackup 3.0_rc8 3.0_rc9: Create Daily, Weekly and Monthly backups of MySQL databases.
 app-emulation/wineasio 0.9.2: ASIO driver for WINE
 app-portage/eclean-package 0.1: Cleaning /etc/portage/package.* from unused entries
@@ -14,7 +15,7 @@ media-sound/jack2 1.9.14 1.9.16: Jackdmp jack implemention for multi-processor m
 media-sound/scdl 9999: Soundcloud Music Downloader
 media-video/filebot 4.7.9: Java-based tools to rename TV shows, download subtitles, and validate checksums
 net-im/prosody-modules 9999: unofficial modules for prosody
-net-mail/z-push 2.5.2 2.6.0 9999: Z-Push syncs ActiveSync compatible devices against various backends
+net-mail/z-push 2.5.2 2.6.0 2.6.2 9999: Z-Push syncs ActiveSync compatible devices against various backends
 net-misc/clusterssh 4.13 4.13.2 4.14 4.15 4.16: Concurrent Multi-Server Terminal Access
 net-p2p/soulseek-qt 20180130: Official binary Qt SoulSeek client
 sci-visualization/circos 0.69.6 0.69.9: Circular layout visualization of genomic and other data
