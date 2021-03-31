@@ -3,6 +3,7 @@ DEPEND=virtual/latex-base >=sys-apps/texinfo-4.2-r5
 DESCRIPTION=LaTeX module to create invoices
 EAPI=7
 HOMEPAGE=http://www.forwiss.uni-passau.de/~berberic/TeX/Rechnung/index.html
+INHERIT=latex-package
 KEYWORDS=~amd64 ~x86
 LICENSE=all-rights-reserved
 RDEPEND=virtual/latex-base
