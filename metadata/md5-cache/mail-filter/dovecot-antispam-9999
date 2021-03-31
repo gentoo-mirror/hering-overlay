@@ -3,10 +3,11 @@ DEPEND=>=net-mail/dovecot-2.1.16 spamassassin? ( mail-filter/spamassassin ) >=de
 DESCRIPTION=A dovecot antispam plugin supporting multiple backends
 EAPI=5
 HOMEPAGE=http://wiki2.dovecot.org/Plugins/Antispam/
+INHERIT=git-r3
 IUSE=spamassassin
 LICENSE=GPL-2
 PROPERTIES=live
 RDEPEND=>=net-mail/dovecot-2.1.16
 SLOT=0
-_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
 _md5_=266b2ef7a5450368fc496adbd9db9fea
