@@ -12,7 +12,6 @@ media-libs/asio-sdk 2.3.1: Steinberg ASIO SDK 2.3 - win32
 media-libs/libffado 2.4.3: Driver for IEEE1394 (Firewire) audio interfaces
 media-sound/hdjd 9999: Hercules DJ Control MP3e2 translation daemon
 media-sound/jack2 1.9.14 1.9.16: Jackdmp jack implemention for multi-processor machine
-media-sound/scdl 9999: Soundcloud Music Downloader
 media-video/filebot 4.7.9: Java-based tools to rename TV shows, download subtitles, and validate checksums
 net-im/prosody-modules 9999: unofficial modules for prosody
 net-mail/z-push 2.5.2 2.6.0 2.6.2 9999: Z-Push syncs ActiveSync compatible devices against various backends
