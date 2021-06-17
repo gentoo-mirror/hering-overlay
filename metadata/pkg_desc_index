@@ -6,6 +6,7 @@ dev-perl/Statistics-Basic 1.6601 1.6611: A collection of very basic statistics m
 dev-perl/X11-Protocol-Other 29 30 31: Miscellaneous helpers for X11::Protocol connections
 dev-php/awl 0.61: Andrew McMillan's Web Libraries
 dev-python/animal_case 0.5.1: The author of this package has not provided a project description
+dev-python/cmarkgfm 0.5.3: Python bindings to GitHub's cmark
 dev-python/pymemcache 3.4.4: A comprehensive, fast, pure-Python memcached client.
 dev-tex/rechnung 3.10: LaTeX module to create invoices
 mail-filter/dovecot-antispam 9999: A dovecot antispam plugin supporting multiple backends
