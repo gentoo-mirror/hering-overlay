@@ -17,7 +17,6 @@ media-sound/hdjd 9999: Hercules DJ Control MP3e2 translation daemon
 media-sound/jack2 1.9.14 1.9.16: Jackdmp jack implemention for multi-processor machine
 media-sound/scdl 9999: Soundcloud Music Downloader
 media-video/filebot 4.7.9: Java-based tools to rename TV shows, download subtitles, and validate checksums
-net-im/prosody-modules 9999: unofficial modules for prosody
 net-mail/mailman-systemd 0.1: mailman3 systmd service
 net-mail/mailman-web 0.0.4: This is a Django project that contains default settings and url settings for Mailman 3 Web Interface
 net-mail/z-push 2.5.2 2.6.0 2.6.2 9999: Z-Push syncs ActiveSync compatible devices against various backends
