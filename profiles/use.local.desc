@@ -15,3 +15,9 @@ sys-apps/systemd-custom-timer:clamav-unofficial-sigs - Install timer to update c
 sys-apps/systemd-custom-timer:dhparams - Install timer to update dhparams
 sys-apps/systemd-custom-timer:geoip - Install timer to run geoipupdate.sh
 sys-kernel/rt-sources:deblob - Remove binary blobs from kernel sources to provide libre license compliance.
+sys-process/systemd-cron:cron-boot - Include support for the boot timer.
+sys-process/systemd-cron:etc-crontab-systemd - Use dedicated /etc/crontab-systemd instead of parsing /etc/crontab
+sys-process/systemd-cron:minutely - Support /etc/cron.minutely
+sys-process/systemd-cron:runparts - Use traditional run-parts instead of creating jobs for each cron.* entry
+sys-process/systemd-cron:setgid - Compile setgid C helper for crontab. Needs GCC or Clang.
+sys-process/systemd-cron:yearly - Support /etc/cron.yearly
