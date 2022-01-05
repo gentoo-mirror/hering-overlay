@@ -28,7 +28,7 @@ sys-apps/systemd-amavisd-milter 1.0: Amavisd-milter systemd service
 sys-apps/systemd-custom-timer 1.1: some custom timer units for systemd on gentoo based systems
 sys-apps/systemd-dovecot-timer 1.1: some dovecot timer units
 sys-apps/systemd-pure-ftpd 1.0: pure-ftpd systemd service
-sys-kernel/rt-sources 5.14.1_p19: Full Linux 5.14 kernel sources with the CONFIG_PREEMPT_RT patch
+sys-kernel/rt-sources 5.15.12_p25: Full Linux 5.15 kernel sources with the CONFIG_PREEMPT_RT patch
 www-servers/selenium-server-standalone 3.14.0 3.141.5: Selenium Serer Standalone
 x11-plugins/pidgin-icyque 9999: ICQ WIM protocol for libpurple
 x11-plugins/purple-gowhatsapp 9999: A libpurple/Pidgin plugin for WhatsApp Web.
