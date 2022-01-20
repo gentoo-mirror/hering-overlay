@@ -1,6 +1,6 @@
 DEFINED_PHASES=compile install postinst postrm preinst prepare setup test unpack
 DEPEND=!build? ( sys-apps/sed )
-DESCRIPTION=Full Linux 5.15 kernel sources with the CONFIG_PREEMPT_RT patch
+DESCRIPTION=Full Linux 5.16 kernel sources with the CONFIG_PREEMPT_RT patch
 EAPI=6
 HOMEPAGE=https://www.kernel.org/ https://wiki.gentoo.org/wiki/Kernel https://www.kernel.org/pub/linux/kernel/projects/rt/ https://www.fsfla.org/svn/fsfla/software/linux-libre/releases/tags/
 INHERIT=eapi7-ver kernel-2
@@ -9,7 +9,7 @@ KEYWORDS=~amd64 ~arm64
 LICENSE=GPL-2
 RDEPEND=!build? ( app-arch/cpio dev-lang/perl sys-devel/bc sys-devel/bison sys-devel/flex sys-devel/make >=sys-libs/ncurses-5.2 virtual/libelf virtual/pkgconfig )
 RESTRICT=binchecks strip
-SLOT=5.15.12_p25
-SRC_URI=https://www.kernel.org/pub/linux/kernel/v5.x/patch-5.15.12.xz https://www.kernel.org/pub/linux/kernel/v5.x/linux-5.15.tar.xz deblob? ( https://www.fsfla.org/svn/fsfla/software/linux-libre/releases/tags//5.15-gnu/deblob-5.15 https://www.fsfla.org/svn/fsfla/software/linux-libre/releases/tags//5.15-gnu/deblob-check -> deblob-check-5.15 ) https://www.kernel.org/pub/linux/kernel/projects/rt/5.15/patch-5.15.12-rt25.patch.xz https://www.kernel.org/pub/linux/kernel/projects/rt/5.15/older/patch-5.15.12-rt25.patch.xz
+SLOT=5.16.1_p17
+SRC_URI=https://www.kernel.org/pub/linux/kernel/v5.x/patch-5.16.1.xz https://www.kernel.org/pub/linux/kernel/v5.x/linux-5.16.tar.xz deblob? ( https://www.fsfla.org/svn/fsfla/software/linux-libre/releases/tags//5.16-gnu/deblob-5.16 https://www.fsfla.org/svn/fsfla/software/linux-libre/releases/tags//5.16-gnu/deblob-check -> deblob-check-5.16 ) https://www.kernel.org/pub/linux/kernel/projects/rt/5.16/patch-5.16.1-rt17.patch.xz https://www.kernel.org/pub/linux/kernel/projects/rt/5.16/older/patch-5.16.1-rt17.patch.xz
 _eclasses_=eapi7-ver	1a0a60ad07c8b32d2faba2d085dc0f24	estack	055c42df72f76a4f45ec92b35e83cd56	toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	de4beb52bfa93c4c5d96792a6b5e1784	eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	multiprocessing	61c959fc55c15c00bbb1079d6a71370b	python-utils-r1	7ec9eb6bbbeccd424c0430368962d272	python-any-r1	13f6d423c5c5bc519a9b552654cc745f	kernel-2	0504e914bab621103eb74f52fad0fc6d
 _md5_=2524629bd8b115fb50d4edeee9c7bf5c
