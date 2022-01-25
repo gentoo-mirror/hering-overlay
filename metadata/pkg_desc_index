@@ -1,4 +1,4 @@
-app-admin/jailkit 2.21 2.22 9999: Allows you to easily put programs and users in a chrooted environment
+app-admin/jailkit 2.21 2.22 2.23 9999: Allows you to easily put programs and users in a chrooted environment
 app-backup/AutoMySQLBackup 3.0_rc8 3.0_rc9: Create Daily, Weekly and Monthly backups of MySQL databases.
 app-portage/eclean-package 0.1: Cleaning /etc/portage/package.* from unused entries
 dev-perl/Statistics-Basic 1.6601 1.6611: A collection of very basic statistics modules
@@ -13,7 +13,7 @@ mail-filter/dovecot-antispam-sieve 1.0-r2: Integrates spam learning into Dovecot
 media-libs/asio-sdk 2.3.1: Steinberg ASIO SDK 2.3 - win32
 media-libs/libffado 2.4.3: Driver for IEEE1394 (Firewire) audio interfaces
 media-sound/hdjd 9999: Hercules DJ Control MP3e2 translation daemon
-media-sound/jack2 1.9.14 1.9.16: Jackdmp jack implemention for multi-processor machine
+media-sound/jack2 1.9.20: Jackdmp jack implemention for multi-processor machine
 media-sound/scdl 9999: Soundcloud Music Downloader
 media-video/filebot 4.7.9: Java-based tools to rename TV shows, download subtitles, and validate checksums
 net-im/prosody-modules 9999: unofficial modules for prosody
@@ -27,7 +27,7 @@ sys-apps/systemd-amavisd-milter 1.0: Amavisd-milter systemd service
 sys-apps/systemd-custom-timer 1.1: some custom timer units for systemd on gentoo based systems
 sys-apps/systemd-dovecot-timer 1.1: some dovecot timer units
 sys-apps/systemd-pure-ftpd 1.0: pure-ftpd systemd service
-sys-kernel/rt-sources 5.14.2_p21 5.16.0_p14 5.16.1_p17: Full Linux 5.16 kernel sources with the CONFIG_PREEMPT_RT patch
+sys-kernel/rt-sources 5.14.2_p21 5.16.0_p14 5.16.1_p17 5.16.2_p19: Full Linux 5.16 kernel sources with the CONFIG_PREEMPT_RT patch
 sys-process/systemd-cron 1.15.18: systemd units to create timers for cron directories and crontab
 www-servers/selenium-server-standalone 3.14.0 3.141.5: Selenium Serer Standalone
 x11-plugins/pidgin-icyque 9999: ICQ WIM protocol for libpurple
