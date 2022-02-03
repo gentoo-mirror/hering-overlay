@@ -1,5 +1,7 @@
 app-admin/jailkit 2.21 2.22 2.23 9999: Allows you to easily put programs and users in a chrooted environment
 app-backup/AutoMySQLBackup 3.0_rc8 3.0_rc9: Create Daily, Weekly and Monthly backups of MySQL databases.
+app-emulation/wineasio 0.9.2: ASIO driver for WINE
+app-office/onlyoffice-docs-bin 7.0.0: ONLYOFFICE Document Server is a free collaborative online office suite
 app-portage/eclean-package 0.1: Cleaning /etc/portage/package.* from unused entries
 dev-perl/Statistics-Basic 1.6601 1.6611: A collection of very basic statistics modules
 dev-perl/X11-Protocol-Other 29 30 31: Miscellaneous helpers for X11::Protocol connections
