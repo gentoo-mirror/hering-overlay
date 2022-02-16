@@ -19,6 +19,7 @@ media-sound/jack2 1.9.20: Jackdmp jack implemention for multi-processor machine
 media-sound/scdl 9999: Soundcloud Music Downloader
 media-video/filebot 4.7.9: Java-based tools to rename TV shows, download subtitles, and validate checksums
 net-im/prosody-modules 9999: unofficial modules for prosody
+net-mail/dovecot-fts-flatcurve 0.2.0: Dovecot FTS plugin to enable message indexing using Xapian
 net-mail/mailman-systemd 0.1: mailman3 systmd service
 net-mail/mailman-web 0.0.4: Django project that contains default and url settings for Mailman3 Web Interface
 net-mail/z-push 2.5.2 2.6.0 2.6.2 9999: Z-Push syncs ActiveSync compatible devices against various backends
@@ -31,6 +32,5 @@ sys-apps/systemd-dovecot-timer 1.1: some dovecot timer units
 sys-apps/systemd-pure-ftpd 1.0: pure-ftpd systemd service
 sys-kernel/rt-sources 5.16.2_p19: Full Linux 5.16 kernel sources with the CONFIG_PREEMPT_RT patch
 sys-process/systemd-cron 1.15.18: systemd units to create timers for cron directories and crontab
-www-servers/selenium-server-standalone 3.14.0 3.141.5: Selenium Serer Standalone
 x11-plugins/pidgin-icyque 9999: ICQ WIM protocol for libpurple
 x11-plugins/purple-gowhatsapp 9999: A libpurple/Pidgin plugin for WhatsApp Web.
