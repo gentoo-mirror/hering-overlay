@@ -19,7 +19,7 @@ media-sound/jack2 1.9.20: Jackdmp jack implemention for multi-processor machine
 media-sound/scdl 9999: Soundcloud Music Downloader
 media-video/filebot 4.7.9: Java-based tools to rename TV shows, download subtitles, and validate checksums
 net-im/prosody-modules 9999: unofficial modules for prosody
-net-mail/dovecot-fts-flatcurve 0.2.0: Dovecot FTS plugin to enable message indexing using Xapian
+net-mail/dovecot-fts-flatcurve 0.2.0 9999: Dovecot FTS plugin to enable message indexing using Xapian
 net-mail/mailman-systemd 0.1: mailman3 systmd service
 net-mail/mailman-web 0.0.4: Django project that contains default and url settings for Mailman3 Web Interface
 net-mail/z-push 2.5.2 2.6.0 2.6.2 9999: Z-Push syncs ActiveSync compatible devices against various backends
