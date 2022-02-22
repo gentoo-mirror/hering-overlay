@@ -1,6 +1,6 @@
-BDEPEND=dev-lang/perl test? ( virtual/perl-Test-Simple )
+BDEPEND=dev-perl/Module-Build dev-lang/perl test? ( virtual/perl-Test-Simple )
 DEFINED_PHASES=compile configure install prepare test
-DEPEND=dev-perl/Email-LocalDelivery dev-perl/Email-MIME dev-perl/Email-Sender dev-perl/IO-All dev-perl/IO-String dev-perl/Module-Build dev-perl/OLE-StorageLite virtual/perl-Getopt-Long dev-perl/Pod-Parser dev-lang/perl
+DEPEND=dev-perl/Email-LocalDelivery dev-perl/Email-MIME dev-perl/Email-Sender dev-perl/IO-All dev-perl/IO-String dev-perl/OLE-StorageLite virtual/perl-Getopt-Long dev-perl/Pod-Parser dev-lang/perl
 DESCRIPTION=Read Outlook .msg files
 EAPI=8
 HOMEPAGE=https://metacpan.org/release/Email-Outlook-Message
@@ -8,9 +8,9 @@ INHERIT=perl-module
 IUSE=test
 KEYWORDS=~amd64
 LICENSE=|| ( Artistic GPL-1+ )
-RDEPEND=dev-perl/Email-LocalDelivery dev-perl/Email-MIME dev-perl/Email-Sender dev-perl/IO-All dev-perl/IO-String dev-perl/Module-Build dev-perl/OLE-StorageLite virtual/perl-Getopt-Long dev-perl/Pod-Parser dev-lang/perl:=
+RDEPEND=dev-perl/Email-LocalDelivery dev-perl/Email-MIME dev-perl/Email-Sender dev-perl/IO-All dev-perl/IO-String dev-perl/OLE-StorageLite virtual/perl-Getopt-Long dev-perl/Pod-Parser dev-lang/perl:=
 RESTRICT=!test? ( test )
 SLOT=0
 SRC_URI=mirror://cpan/authors/id/M/MV/MVZ/Email-Outlook-Message-0.921.tar.gz
 _eclasses_=multiprocessing	61c959fc55c15c00bbb1079d6a71370b	perl-functions	fea344a91ebf37efadf172c6a3de5a72	readme.gentoo-r1	eebd0164fe61f4f7b64a683e83fdceb1	perl-module	bd9574a79c5f0a347a9ea3db5ad9ca72
-_md5_=7f8cf5a2f7ed10981444d3d9b3cc36c6
+_md5_=97f7775078a8b21ebf8f5dd3cc9d5202
