@@ -8,7 +8,7 @@ dev-perl/X11-Protocol-Other 29 30 31: Miscellaneous helpers for X11::Protocol co
 dev-php/awl 0.61: Andrew McMillan's Web Libraries
 dev-python/animal_case 0.5.1: The author of this package has not provided a project description
 dev-python/cmarkgfm 0.5.3: Python bindings to GitHub's cmark
-dev-python/pymemcache 3.4.4 3.5.1: A comprehensive, fast, pure-Python memcached client.
+dev-python/pymemcache 3.4.4 3.5.1 3.5.2: A comprehensive, fast, pure-Python memcached client.
 dev-tex/rechnung 3.10: LaTeX module to create invoices
 mail-filter/dovecot-antispam 9999: A dovecot antispam plugin supporting multiple backends
 mail-filter/dovecot-antispam-sieve 1.0-r2: Integrates spam learning into Dovecot by Sieve
@@ -30,7 +30,7 @@ sys-apps/systemd-amavisd-milter 1.0: Amavisd-milter systemd service
 sys-apps/systemd-custom-timer 1.1: some custom timer units for systemd on gentoo based systems
 sys-apps/systemd-dovecot-timer 1.1: some dovecot timer units
 sys-apps/systemd-pure-ftpd 1.0: pure-ftpd systemd service
-sys-kernel/rt-sources 5.16.2_p19: Full Linux 5.16 kernel sources with the CONFIG_PREEMPT_RT patch
+sys-kernel/rt-sources 5.17.1_p17: Full Linux 5.17 kernel sources with the CONFIG_PREEMPT_RT patch
 sys-process/systemd-cron 1.15.18: systemd units to create timers for cron directories and crontab
 x11-plugins/pidgin-icyque 9999: ICQ WIM protocol for libpurple
 x11-plugins/purple-gowhatsapp 9999: A libpurple/Pidgin plugin for WhatsApp Web.
