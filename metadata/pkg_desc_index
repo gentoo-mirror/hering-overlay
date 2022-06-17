@@ -6,9 +6,30 @@ dev-perl/Email-Outlook-Message 0.921: Read Outlook .msg files
 dev-perl/Statistics-Basic 1.6601 1.6611: A collection of very basic statistics modules
 dev-perl/X11-Protocol-Other 29 30 31: Miscellaneous helpers for X11::Protocol connections
 dev-php/awl 0.61: Andrew McMillan's Web Libraries
+dev-python/aiosmtpd 1.4.2: asyncio based SMTP server
 dev-python/animal_case 0.5.1: The author of this package has not provided a project description
+dev-python/authheaders 0.15.1: A library wrapping email authentication header verification and generation
 dev-python/cmarkgfm 0.5.3: Python bindings to GitHub's cmark
+dev-python/django-allauth 0.50.0: Django 3rd party (social) account authentication
+dev-python/django-appconf 1.0.5-r1: A helper class for handling configuration defaults of packaged apps gracefully
+dev-python/django-compressor 2.4.1: Compresses linked and inline JavaScript or CSS into single cached files
+dev-python/django-debug-toolbar 3.4: A configurable set of panels that display debug information
+dev-python/django-extensions 3.0.9: A collection of custom extensions for the Django Framework
+dev-python/django-gravatar2 1.4.4: Essential Gravatar support for Django
+dev-python/django-haystack 3.2.1: Pluggable search for Django
+dev-python/django-picklefield 3.0.1-r1: Pickled object field for Django
+dev-python/django-q 1.3.3: A multiprocessing distributed task queue for Django
+dev-python/falcon 3.1.0: A supersonic micro-framework for building cloud APIs
+dev-python/flufl-bounce 4.0: Email bounce detectors
+dev-python/flufl-i18n 4.0: A high level API for Python internationalization
+dev-python/flufl-testing 0.8: Small collection of test tool plugins
+dev-python/lazr-config 2.2.3-r2: Create configuration schemas, and process and validate configurations
+dev-python/lazr-delegates 2.0.4-r2: Easily write objects that delegate behavior
 dev-python/pymemcache 3.4.4 3.5.1 3.5.2: A comprehensive, fast, pure-Python memcached client.
+dev-python/python3-openid 3.2.0-r1: OpenID support for modern servers and consumers
+dev-python/rcssmin 1.1.0-r1: CSS minifier written in python
+dev-python/rjsmin 1.2.0-r1: Javascript minifier written in python
+dev-python/robot-detection 0.4.0-r1: Module to detect if a given HTTP User Agent is a web crawler
 dev-tex/rechnung 3.10: LaTeX module to create invoices
 mail-filter/dovecot-antispam 9999: A dovecot antispam plugin supporting multiple backends
 mail-filter/dovecot-antispam-sieve 1.0-r2: Integrates spam learning into Dovecot by Sieve
@@ -19,9 +40,15 @@ media-sound/jack2 1.9.20 1.9.21: Jackdmp jack implemention for multi-processor m
 media-sound/scdl 9999: Soundcloud Music Downloader
 media-video/filebot 4.7.9: Java-based tools to rename TV shows, download subtitles, and validate checksums
 net-im/prosody-modules 9999: unofficial modules for prosody
+net-mail/django-mailman3 1.3.4 1.3.7: Django-based interfaces interacting with Mailman 3
 net-mail/dovecot-fts-flatcurve 0.2.0 0.3.0 9999: Dovecot FTS plugin to enable message indexing using Xapian
+net-mail/hyperkitty 1.3.3: A web interface to access GNU Mailman v3 archives
+net-mail/mailman 3.3.2 3.3.4: Mailman -- the GNU mailing list manager
+net-mail/mailman-meta 3: Meta ebuild for GNU Mailman 3
 net-mail/mailman-systemd 0.1: mailman3 systmd service
 net-mail/mailman-web 0.0.4: Django project that contains default and url settings for Mailman3 Web Interface
+net-mail/mailmanclient 3.3.1 3.3.3: Python bindings for the GNU Mailman 3 REST API
+net-mail/postorius 1.3.5: A web user interface for GNU Mailman 3
 net-mail/z-push 2.5.2 2.6.0 2.6.2 9999: Z-Push syncs ActiveSync compatible devices against various backends
 net-misc/clusterssh 4.13 4.13.2 4.14 4.15 4.16: Concurrent Multi-Server Terminal Access
 net-p2p/soulseek-qt 20180130: Official binary Qt SoulSeek client
