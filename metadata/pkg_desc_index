@@ -3,8 +3,6 @@ app-backup/AutoMySQLBackup 3.0_rc8 3.0_rc9: Create Daily, Weekly and Monthly bac
 app-emulation/wineasio 0.9.2: ASIO driver for WINE
 app-portage/eclean-package 0.1: Cleaning /etc/portage/package.* from unused entries
 dev-perl/Email-Outlook-Message 0.921: Read Outlook .msg files
-dev-perl/Statistics-Basic 1.6601 1.6611: A collection of very basic statistics modules
-dev-perl/X11-Protocol-Other 29 30 31: Miscellaneous helpers for X11::Protocol connections
 dev-php/awl 0.61: Andrew McMillan's Web Libraries
 dev-python/aiosmtpd 1.4.2: asyncio based SMTP server
 dev-python/animal_case 0.5.1: The author of this package has not provided a project description
@@ -50,7 +48,6 @@ net-mail/mailman-web 0.0.4: Django project that contains default and url setting
 net-mail/mailmanclient 3.3.1 3.3.3: Python bindings for the GNU Mailman 3 REST API
 net-mail/postorius 1.3.5: A web user interface for GNU Mailman 3
 net-mail/z-push 2.5.2 2.6.0 2.6.2 9999: Z-Push syncs ActiveSync compatible devices against various backends
-net-misc/clusterssh 4.13 4.13.2 4.14 4.15 4.16: Concurrent Multi-Server Terminal Access
 net-p2p/soulseek-qt 20180130: Official binary Qt SoulSeek client
 sci-visualization/circos 0.69.6 0.69.9: Circular layout visualization of genomic and other data
 sys-apps/systemd-amavisd-milter 1.0: Amavisd-milter systemd service
