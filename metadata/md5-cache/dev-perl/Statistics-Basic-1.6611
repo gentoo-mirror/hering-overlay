@@ -1,13 +1,16 @@
-BDEPEND=dev-lang/perl
+BDEPEND=dev-lang/perl test? ( virtual/perl-Test-Simple )
 DEFINED_PHASES=compile configure install prepare test
 DEPEND=dev-perl/Number-Format dev-lang/perl dev-lang/perl
 DESCRIPTION=A collection of very basic statistics modules
-EAPI=7
+EAPI=8
 HOMEPAGE=https://metacpan.org/release/Statistics-Basic
 INHERIT=perl-module
+IUSE=test
 KEYWORDS=~amd64 ~x86
 LICENSE=|| ( Artistic GPL-1 GPL-2 GPL-3 )
 RDEPEND=dev-lang/perl:=
+RESTRICT=!test? ( test )
 SLOT=0
-_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	perl-functions	95b2df43c5f3057b6e77bd00b4d953da	perl-module	f2c1b0dd41761ffc8441cd041e4bb7ec
-_md5_=a697af660a46b7ba5db2b27423aa0ba7
+SRC_URI=mirror://cpan/authors/id/J/JE/JETTERO/Statistics-Basic-1.6611.tar.gz
+_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	perl-functions	95b2df43c5f3057b6e77bd00b4d953da	readme.gentoo-r1	b776ad4b42f564c406a95c41ccb42c55	perl-module	f2c1b0dd41761ffc8441cd041e4bb7ec
+_md5_=168ef9dc2cdf1324b016b8a1479d95b4
