@@ -1,0 +1,13 @@
+BDEPEND=dev-lang/perl
+DEFINED_PHASES=compile configure install prepare test
+DEPEND=dev-perl/X11-Protocol dev-lang/perl
+DESCRIPTION=Miscellaneous helpers for X11::Protocol connections
+EAPI=7
+HOMEPAGE=https://metacpan.org/release/X11-Protocol-Other
+INHERIT=perl-module
+KEYWORDS=~amd64 ~x86 ~amd64-linux ~x86-linux
+LICENSE=|| ( Artistic GPL-1+ ) GPL-3
+RDEPEND=dev-perl/X11-Protocol dev-lang/perl:=
+SLOT=0
+_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	perl-functions	95b2df43c5f3057b6e77bd00b4d953da	perl-module	f2c1b0dd41761ffc8441cd041e4bb7ec
+_md5_=0b8ace3c97aecc98ac8cfb57302d7dc1
