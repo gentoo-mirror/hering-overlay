@@ -35,6 +35,7 @@ mail-filter/dovecot-antispam 9999: A dovecot antispam plugin supporting multiple
 mail-filter/dovecot-antispam-sieve 1.0-r2: Integrates spam learning into Dovecot by Sieve
 media-libs/asio-sdk 2.3.1: Steinberg ASIO SDK 2.3 - win32
 media-libs/libffado 2.4.3: Driver for IEEE1394 (Firewire) audio interfaces
+media-sound/aj-snapshot 0.9.9: Tool for storing/restoring JACK and/or ALSA connections to/from cml files.
 media-sound/hdjd 9999: Hercules DJ Control MP3e2 translation daemon
 media-sound/jack2 1.9.20 1.9.21: Jackdmp jack implemention for multi-processor machine
 media-sound/scdl 9999: Soundcloud Music Downloader
