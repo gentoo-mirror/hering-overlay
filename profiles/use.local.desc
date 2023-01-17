@@ -5,7 +5,6 @@
 mail-filter/dovecot-antispam:spamassassin - install sa-learn pipe script
 mail-filter/dovecot-antispam-sieve:rspamd - install rs-learn pipe script
 mail-filter/dovecot-antispam-sieve:spamassassin - install sa-learn pipe script
-media-libs/libffado:test-programs - Install standalone test programs
 media-sound/jack2:classic - Enable building of jackd
 media-sound/jack2:metadata - Enable metadata API
 media-sound/jack2:pam - Add basic realtime configuration via sys-auth/realtime-base
