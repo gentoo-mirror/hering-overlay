@@ -11,4 +11,4 @@ RDEPEND=app-accessibility/at-spi2-atk app-accessibility/at-spi2-core app-arch/bz
 SLOT=0
 SRC_URI=https://github.com/rustdesk/rustdesk/releases/download/nightly/rustdesk-1.2.0-0-x86_64.pkg.tar.zst -> rustdesk-client-bin-1.2.0_pre.tar.zst
 _eclasses_=toolchain-funcs	6001248ef162a5fa2a21ce132a212f6b	multilib	5ca4e49abed8e3a2f7b56920eadee157	systemd	5f4bb0758df2e483babf68cd517078ca
-_md5_=35e919beba846e8a5bc91fe4a6e1397b
+_md5_=fbe59b3de03bff9c0d19066dba167ff9
