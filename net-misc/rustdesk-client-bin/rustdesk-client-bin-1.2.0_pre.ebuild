@@ -96,10 +96,17 @@ src_install() {
 	# Install Binary
 	dobin usr/lib/rustdesk/rustdesk || die "Cannot install Binary!"
 	# Install Library
-	dodir usr/lib/rustdesk
-	dodir usr/share/rustdesk/files
-	insinto /usr/share/rustdesk/files
-	dobin usr/share/rustdesk/files/pynput_service.py
+	insinto /usr/lib
+	doins -r usr/lib/rustdesk
+	insinto usr/share/rustdesk
+	doins -r usr/share/rustdesk/files
+
+	# desktop file + image
+	insinto /usr/share/applications
+	doins usr/share/rustdesk/files/rustdesk.desktop
+	insinto /usr/share/icons/hicolor/256x256/apps
+	doins usr/share/rustdesk/files/rustdesk.png
+
 	# Install Systemd-Unit
 	systemd_dounit usr/share/rustdesk/files/rustdesk.service
 }
