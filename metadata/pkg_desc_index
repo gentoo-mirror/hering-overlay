@@ -61,6 +61,6 @@ sys-apps/systemd-amavisd-milter 1.0: Amavisd-milter systemd service
 sys-apps/systemd-custom-timer 1.1: some custom timer units for systemd on gentoo based systems
 sys-apps/systemd-dovecot-timer 1.1: some dovecot timer units
 sys-apps/systemd-pure-ftpd 1.0: pure-ftpd systemd service
-sys-kernel/rt-sources 6.2.0_p3 6.3.1_p13: Full Linux 6.3 kernel sources with the CONFIG_PREEMPT_RT patch
+sys-kernel/rt-sources 6.2.0_p3 6.3.3_p15: Full Linux 6.3 kernel sources with the CONFIG_PREEMPT_RT patch
 sys-process/systemd-cron 1.15.18: systemd units to create timers for cron directories and crontab
 x11-plugins/pidgin-icyque 9999: ICQ WIM protocol for libpurple
