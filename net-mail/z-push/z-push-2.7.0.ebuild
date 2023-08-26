@@ -1,14 +1,12 @@
-# Copyright 1999-2018 Gentoo Foundation
+# Copyright 1999-2021 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=7
 
-inherit git-r3
 
 DESCRIPTION="Z-Push syncs ActiveSync compatible devices against various backends"
 HOMEPAGE="http://z-push.org/"
-EGIT_REPO_URI="https://stash.z-hub.io/scm/zp/z-push.git"
-EGIT_COMMIT="${PV}"
+SRC_URI="https://github.com/Z-Hub/Z-Push/archive/${PV}.tar.gz -> z-push-${PV}.tar.gz"
 S="${WORKDIR}/${P}/src"
 
 LICENSE="GPL-3"
@@ -43,6 +41,13 @@ process_cfg_file() {
 process_doc_file() {
 	[ $(basename $(dirname ${1})) == "." ] && dodoc ${1} || newdoc ${1} $(basename $(dirname ${1}))
 	rm ${1}
+}
+
+src_unpack() {
+	if [[ -n ${A} ]]; then
+		unpack ${A}
+	fi
+	for i in ${WORKDIR}/*; do mv "$i" `echo $i | tr '[A-Z]' '[a-z]'`; done
 }
 
 src_install() {
