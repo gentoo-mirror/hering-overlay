@@ -8,6 +8,7 @@ dev-perl/Email-Outlook-Message 0.921: Read Outlook .msg files
 dev-perl/Statistics-Basic 1.6601 1.6611: A collection of very basic statistics modules
 dev-perl/X11-Protocol-Other 29 30 31: Miscellaneous helpers for X11::Protocol connections
 dev-php/awl 0.61: Andrew McMillan's Web Libraries
+dev-php/pecl-memcache 3.0.8-r3: PHP extension for using memcached
 dev-python/aiosmtpd 1.4.2: asyncio based SMTP server
 dev-python/animal_case 0.5.1: The author of this package has not provided a project description
 dev-python/authheaders 0.15.1: A library wrapping email authentication header verification and generation
