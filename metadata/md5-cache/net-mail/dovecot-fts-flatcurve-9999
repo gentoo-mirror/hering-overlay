@@ -8,5 +8,5 @@ LICENSE=LGPL-2.1
 PROPERTIES=live
 RDEPEND=net-mail/dovecot[stemmer] !>=net-mail/dovecot-2.4 dev-libs/xapian
 SLOT=0
-_eclasses_=git-r3	86fa1f157b70b9d2ff340c4633b1cf4b
+_eclasses_=git-r3	fbb2889c81f3a05910c1524db69425c1
 _md5_=b80496df8f2859befc84c280d14b2675
