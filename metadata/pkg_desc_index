@@ -45,7 +45,7 @@ media-sound/scdl 9999: Soundcloud Music Downloader
 media-video/filebot 4.7.9: Java-based tools to rename TV shows, download subtitles, and validate checksums
 net-im/prosody-modules 9999: unofficial modules for prosody
 net-mail/django-mailman3 1.3.7: Django-based interfaces interacting with Mailman 3
-net-mail/dovecot-fts-flatcurve 1.0.0 1.0.2 9999: Dovecot FTS plugin to enable message indexing using Xapian
+net-mail/dovecot-fts-flatcurve 1.0.0 1.0.2 1.0.3 9999: Dovecot FTS plugin to enable message indexing using Xapian
 net-mail/hyperkitty 1.3.3: A web interface to access GNU Mailman v3 archives
 net-mail/mailman 3.3.4: Mailman -- the GNU mailing list manager
 net-mail/mailman-meta 3: Meta ebuild for GNU Mailman 3
@@ -53,7 +53,7 @@ net-mail/mailman-systemd 0.1: mailman3 systmd service
 net-mail/mailman-web 0.0.5: Django project that contains default and url settings for Mailman3 Web Interface
 net-mail/mailmanclient 3.3.1 3.3.3: Python bindings for the GNU Mailman 3 REST API
 net-mail/postorius 1.3.5: A web user interface for GNU Mailman 3
-net-mail/z-push 2.7.0 2.7.1 2.7.2 9999: Z-Push syncs ActiveSync compatible devices against various backends
+net-mail/z-push 2.7.0 2.7.1 2.7.2 2.7.3 9999: Z-Push syncs ActiveSync compatible devices against various backends
 net-misc/rustdesk-client-bin 1.1.9 1.2.0_pre: RustDesk Client
 net-misc/rustdesk-server 1.1.7-r1 1.1.7-r4: RustDesk Server
 net-p2p/soulseek-qt 20180130: Official binary Qt SoulSeek client
@@ -62,6 +62,6 @@ sys-apps/systemd-amavisd-milter 1.0: Amavisd-milter systemd service
 sys-apps/systemd-custom-timer 1.1: some custom timer units for systemd on gentoo based systems
 sys-apps/systemd-dovecot-timer 1.1: some dovecot timer units
 sys-apps/systemd-pure-ftpd 1.0: pure-ftpd systemd service
-sys-kernel/rt-sources 6.8.0_p8 6.8.2_p9 6.8.2_p11: Full Linux 6.8 kernel sources with the CONFIG_PREEMPT_RT patch
+sys-kernel/rt-sources 6.8.0_p8 6.8.2_p9 6.8.2_p11 6.9.0_p5: Full Linux 6.9 kernel sources with the CONFIG_PREEMPT_RT patch
 sys-process/systemd-cron 1.15.18: systemd units to create timers for cron directories and crontab
 x11-plugins/pidgin-icyque 9999: ICQ WIM protocol for libpurple
