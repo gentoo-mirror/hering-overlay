@@ -26,6 +26,7 @@ dev-python/falcon 3.1.0: A supersonic micro-framework for building cloud APIs
 dev-python/flufl-bounce 4.0: Email bounce detectors
 dev-python/flufl-i18n 5.1.0: A high level API for Python internationalization
 dev-python/flufl-testing 0.8: Small collection of test tool plugins
+dev-python/instaviz 0.6.0: Instant visualization of Python AST and Code Objects.
 dev-python/inwx-domrobot 3.1.0: INWX Domrobot Python 3 Client
 dev-python/lazr-config 2.2.3-r2: Create configuration schemas, and process and validate configurations
 dev-python/lazr-delegates 2.0.4-r2: Easily write objects that delegate behavior
