@@ -30,7 +30,7 @@ dev-python/instaviz 0.6.0: Instant visualization of Python AST and Code Objects.
 dev-python/inwx-domrobot 3.1.0: INWX Domrobot Python 3 Client
 dev-python/lazr-config 3.0: Create configuration schemas, and process and validate configurations
 dev-python/lazr-delegates 2.1.0: Easily write objects that delegate behavior
-dev-python/prompt-toolkit 3.0.36: Building powerful interactive command lines in Python
+dev-python/prompt-toolkit 3.0.36 3.0.47: Building powerful interactive command lines in Python
 dev-python/pymemcache 3.4.4 3.5.1 3.5.2 4.0.0: A comprehensive, fast, pure-Python memcached client.
 dev-python/pypi-latest 0.1.2: Verify that currently installed version is the latest one released on PyPI
 dev-python/python3-openid 3.2.0-r1: OpenID support for modern servers and consumers
