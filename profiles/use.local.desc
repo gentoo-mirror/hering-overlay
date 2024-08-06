@@ -41,6 +41,9 @@ media-sound/jack2:metadata - Enable metadata API
 media-sound/jack2:pam - Add basic realtime configuration via sys-auth/realtime-base
 net-mail/z-push:caldav - support Caldav
 net-mail/z-push:carddav - support Carddav
+net-misc/nextcloud-client:dolphin - Install the kde-apps/dolphin extension
+net-misc/nextcloud-client:nautilus - Install the gnome-base/nautilus extension
+net-misc/nextcloud-client:webengine - Enable old Flow1 login using dev-qt/qtwebengine
 sys-apps/systemd-custom-timer:clamav-unofficial-sigs - Install timer to update clamav-unofficial-sigs
 sys-apps/systemd-custom-timer:dhparams - Install timer to update dhparams
 sys-apps/systemd-custom-timer:geoip - Install timer to run geoipupdate.sh
