@@ -11,6 +11,7 @@ dev-php/PEAR-DB 1.11.0: Database abstraction layer for PHP
 dev-php/PEAR-HTTP_Request2 2.6.0: Provides an easy way to perform HTTP requests
 dev-php/PEAR-Mail_mimeDecode 1.5.6-r3: Provides a class to decode mime messages (split from PEAR-Mail_Mime)
 dev-php/PEAR-Net_IDNA2 0.2.0: Punycode encoding and decoding
+dev-php/PEAR-Net_URL2 2.1.2: Class for parsing and handling URL
 dev-php/awl 0.61: Andrew McMillan's Web Libraries
 dev-php/pecl-memcache 3.0.8-r3 4.0.5.2-r1: PHP extension for using memcached
 dev-python/aiosmtpd 1.4.2: asyncio based SMTP server
