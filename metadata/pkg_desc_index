@@ -35,12 +35,13 @@ dev-python/instaviz 0.6.0: Instant visualization of Python AST and Code Objects.
 dev-python/inwx-domrobot 3.1.0: INWX Domrobot Python 3 Client
 dev-python/lazr-config 3.0: Create configuration schemas, and process and validate configurations
 dev-python/lazr-delegates 2.1.0: Easily write objects that delegate behavior
+dev-python/mwapi 0.6.1: very simple convenience wrapper around the MediaWiki API
 dev-python/prompt-toolkit 3.0.36 3.0.47: Building powerful interactive command lines in Python
 dev-python/pymemcache 3.4.4 3.5.1 3.5.2 4.0.0: A comprehensive, fast, pure-Python memcached client.
 dev-python/pypi-latest 0.1.2: Verify that currently installed version is the latest one released on PyPI
 dev-python/python3-openid 3.2.0-r1: OpenID support for modern servers and consumers
 dev-python/questionary 2.0.1: Questionary is a Python library for effortlessly building pretty cli
-dev-python/rcssmin 1.1.0-r1 1.1.2: CSS minifier written in python
+dev-python/rcssmin 1.1.0-r1 1.1.2 1.1.3: CSS minifier written in python
 dev-python/rjsmin 1.2.0-r1: Javascript minifier written in python
 dev-python/robot-detection 0.4.0-r1: Module to detect if a given HTTP User Agent is a web crawler
 dev-tex/rechnung 3.10: LaTeX module to create invoices
@@ -53,15 +54,15 @@ media-sound/jack2 1.9.20 1.9.21: Jackdmp jack implemention for multi-processor m
 media-sound/scdl 9999: Soundcloud Music Downloader
 media-video/filebot 4.7.9: Java-based tools to rename TV shows, download subtitles, and validate checksums
 net-im/prosody-modules 9999: unofficial modules for prosody
-net-mail/django-mailman3 1.3.12: Django-based interfaces interacting with Mailman 3
+net-mail/django-mailman3 1.3.12 1.3.15: Django-based interfaces interacting with Mailman 3
 net-mail/dovecot-fts-flatcurve 1.0.4 1.0.5 9999: Dovecot FTS plugin to enable message indexing using Xapian
-net-mail/hyperkitty 1.3.9: A web interface to access GNU Mailman v3 archives
-net-mail/mailman 3.3.4 3.3.9: Mailman -- the GNU mailing list manager
+net-mail/hyperkitty 1.3.9 1.3.12: A web interface to access GNU Mailman v3 archives
+net-mail/mailman 3.3.4 3.3.9 3.3.10: Mailman -- the GNU mailing list manager
 net-mail/mailman-meta 3: Meta ebuild for GNU Mailman 3
 net-mail/mailman-systemd 0.1: mailman3 systmd service
 net-mail/mailman-web 0.0.9: Django project that contains default and url settings for Mailman3 Web Interface
 net-mail/mailmanclient 3.3.1 3.3.3 3.3.5: Python bindings for the GNU Mailman 3 REST API
-net-mail/postorius 1.3.5 1.3.10: A web user interface for GNU Mailman 3
+net-mail/postorius 1.3.5 1.3.10 1.3.13: A web user interface for GNU Mailman 3
 net-mail/z-push 2.7.0 2.7.1 2.7.2 2.7.3 2.7.4 9999: Z-Push syncs ActiveSync compatible devices against various backends
 net-misc/nextcloud-client 3.12.7: Desktop Syncing Client for Nextcloud
 net-misc/rustdesk-client-bin 1.1.9 1.2.0_pre: RustDesk Client
