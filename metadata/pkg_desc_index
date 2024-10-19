@@ -20,10 +20,10 @@ dev-python/authheaders 0.15.1 0.16.2: A library wrapping email authentication he
 dev-python/cmarkgfm 0.5.3 2024.1.14: Python bindings to GitHub's cmark
 dev-python/django-allauth 0.63.3: Django 3rd party (social) account authentication
 dev-python/django-appconf 1.0.6: A helper class for handling configuration defaults of packaged apps gracefully
-dev-python/django-compressor 2.4.1 4.4: Compresses linked and inline JavaScript or CSS into single cached files
+dev-python/django-compressor 4.5.1: Compresses linked and inline JavaScript or CSS into single cached files
 dev-python/django-debug-toolbar 3.4: A configurable set of panels that display debug information
 dev-python/django-extensions 3.2.3: A collection of custom extensions for the Django Framework
-dev-python/django-gravatar2 1.4.4: Essential Gravatar support for Django
+dev-python/django-gravatar2 1.4.5: Essential Gravatar support for Django
 dev-python/django-haystack 3.3.0: Pluggable search for Django
 dev-python/django-paintstore 0.2: a Django app that integrates jQuery ColorPicker with the Django admin
 dev-python/django-picklefield 3.0.1-r1: Pickled object field for Django
@@ -42,9 +42,9 @@ dev-python/pymemcache 3.4.4 3.5.1 3.5.2 4.0.0: A comprehensive, fast, pure-Pytho
 dev-python/pypi-latest 0.1.2: Verify that currently installed version is the latest one released on PyPI
 dev-python/python3-openid 3.2.0-r1: OpenID support for modern servers and consumers
 dev-python/questionary 2.0.1: Questionary is a Python library for effortlessly building pretty cli
-dev-python/rcssmin 1.1.0-r1 1.1.2 1.1.3: CSS minifier written in python
-dev-python/rjsmin 1.2.0-r1: Javascript minifier written in python
-dev-python/robot-detection 0.4.0-r1: Module to detect if a given HTTP User Agent is a web crawler
+dev-python/rcssmin 1.1.3: CSS minifier written in python
+dev-python/rjsmin 1.2.3: Javascript minifier written in python
+dev-python/robot-detection 0.4: Module to detect if a given HTTP User Agent is a web crawler
 dev-tex/rechnung 3.10: LaTeX module to create invoices
 mail-filter/dovecot-antispam 9999: A dovecot antispam plugin supporting multiple backends
 mail-filter/dovecot-antispam-sieve 1.0-r2: Integrates spam learning into Dovecot by Sieve
