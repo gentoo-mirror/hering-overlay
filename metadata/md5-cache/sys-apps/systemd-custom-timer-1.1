@@ -1,12 +1,13 @@
 BDEPEND=virtual/pkgconfig
 DEFINED_PHASES=install
-DESCRIPTION=pure-ftpd systemd service
+DESCRIPTION=some custom timer units for systemd on gentoo based systems
 EAPI=8
 HOMEPAGE=https://github.com/internethering
 INHERIT=systemd
+IUSE=geoip clamav-unofficial-sigs dhparams
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
-RDEPEND=net-ftp/pure-ftpd
+RDEPEND=geoip? ( dev-libs/geoip )
 SLOT=0
 _eclasses_=toolchain-funcs	d3d42b22a610ce81c267b644bcec9b87	multilib	b2a329026f2e404e9e371097dda47f96	systemd	54bd206bb5c4efac6ae28b6b006713b0
-_md5_=2a2784bf336eb25e4c8546e1c7e76722
+_md5_=1304efa3b56713218e33c552d137c23f
