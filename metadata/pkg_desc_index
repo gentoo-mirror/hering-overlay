@@ -12,7 +12,7 @@ dev-php/PEAR-Mail_mimeDecode 1.5.6-r3: Provides a class to decode mime messages 
 dev-php/PEAR-Net_IDNA2 0.2.0: Punycode encoding and decoding
 dev-php/PEAR-Net_URL2 2.1.2: Class for parsing and handling URL
 dev-php/awl 0.64: Andrew McMillan's Web Libraries
-dev-php/pecl-memcache 3.0.8-r3 4.0.5.2-r1: PHP extension for using memcached
+dev-php/pecl-memcache 3.0.8-r4 4.0.5.2-r2: PHP extension for using memcached
 dev-python/animal_case 0.5.1: The author of this package has not provided a project description
 dev-python/authheaders 0.16.3: A library wrapping email authentication header verification and generation
 dev-python/cmarkgfm 2024.1.14: Python bindings to GitHub's cmark
