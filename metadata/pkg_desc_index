@@ -9,11 +9,11 @@ dev-lang/php 5.6.40-r7 7.4.33-r6 8.1.30: The PHP language runtime engine
 dev-perl/Email-Outlook-Message 0.921: Read Outlook .msg files
 dev-perl/Statistics-Basic 1.6611: A collection of very basic statistics modules
 dev-perl/X11-Protocol-Other 31: Miscellaneous helpers for X11::Protocol connections
-dev-php/PEAR-DB 1.11.0: Database abstraction layer for PHP
-dev-php/PEAR-HTTP_Request2 2.6.0: Provides an easy way to perform HTTP requests
+dev-php/PEAR-DB 1.11.0 1.12.2: Database abstraction layer for PHP
+dev-php/PEAR-HTTP_Request2 2.7.0: Provides an easy way to perform HTTP requests
 dev-php/PEAR-Mail_mimeDecode 1.5.6-r3: Provides a class to decode mime messages (split from PEAR-Mail_Mime)
 dev-php/PEAR-Net_IDNA2 0.2.0: Punycode encoding and decoding
-dev-php/PEAR-Net_URL2 2.1.2: Class for parsing and handling URL
+dev-php/PEAR-Net_URL2 2.1.2 2.2.3: Class for parsing and handling URL
 dev-php/awl 0.64: Andrew McMillan's Web Libraries
 dev-php/pecl-memcache 3.0.8-r4 4.0.5.2-r2 8.0-r1: PHP extension for using memcached
 dev-python/animal_case 0.5.1: The author of this package has not provided a project description
