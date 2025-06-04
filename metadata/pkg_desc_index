@@ -18,6 +18,7 @@ dev-php/awl 0.64: Andrew McMillan's Web Libraries
 dev-php/pecl-memcache 3.0.8-r4 4.0.5.2-r2 8.0-r1: PHP extension for using memcached
 dev-python/animal_case 0.5.1: The author of this package has not provided a project description
 dev-python/authheaders 0.16.3: A library wrapping email authentication header verification and generation
+dev-python/cmarkgfm 2024.1.14 2024.11.20: Python bindings to GitHub's cmark
 dev-python/django-allauth 65.0.2: Django 3rd party (social) account authentication
 dev-python/django-appconf 1.0.6: A helper class for handling configuration defaults of packaged apps gracefully
 dev-python/django-compressor 4.5.1: Compresses linked and inline JavaScript or CSS into single cached files
