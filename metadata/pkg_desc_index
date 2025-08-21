@@ -60,7 +60,7 @@ dev-python/rjsmin 1.2.3: Javascript minifier written in python
 dev-python/robot-detection 0.4: Module to detect if a given HTTP User Agent is a web crawler
 dev-tex/rechnung 3.10: LaTeX module to create invoices
 mail-filter/dovecot-antispam 9999: A dovecot antispam plugin supporting multiple backends
-mail-filter/dovecot-antispam-sieve 1.0-r2: Integrates spam learning into Dovecot by Sieve
+mail-filter/dovecot-antispam-sieve 1.0-r3: Integrates spam learning into Dovecot by Sieve
 mail-filter/razorfy 9999: Small Perl Daemon to use razor over TCP sockets. Mainly to use razor in Rspamd.
 media-libs/asio-sdk 2.3.3: Steinberg ASIO SDK 2.3 - win32
 media-sound/aj-snapshot 0.9.9: Tool for storing/restoring JACK and/or ALSA connections to/from cml files.
