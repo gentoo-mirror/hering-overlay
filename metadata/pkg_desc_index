@@ -89,5 +89,5 @@ sys-apps/systemd-amavisd-milter 1.0: Amavisd-milter systemd service
 sys-apps/systemd-custom-timer 1.1: some custom timer units for systemd on gentoo based systems
 sys-apps/systemd-dovecot-timer 1.1: some dovecot timer units
 sys-apps/systemd-pure-ftpd 1.0: pure-ftpd systemd service
-sys-kernel/rt-sources 6.10.2_p14 6.11.0_p7 6.12.8_p8 6.13.0_p5 6.14.0_p3 6.15.0_p2: Sources based on the Linux Kernel
+sys-kernel/rt-sources 6.10.2_p14 6.11.0_p7 6.12.8_p8 6.13.0_p5 6.14.0_p3 6.15.0_p2 6.16.0_p3: Sources based on the Linux Kernel
 www-apache/mod_maxminddb 1.2.0: MaxMind DB Apache Module
