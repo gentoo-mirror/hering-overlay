@@ -5,6 +5,7 @@ acct-user/mailman 0: System user: mailman
 acct-user/olefy 0: System user: olefy
 acct-user/razorfy 0: System user: razorfy
 app-admin/jailkit 2.23-r1 9999: Allows you to easily put programs and users in a chrooted environment
+app-antivirus/clamav-gui 1.1.5: Front-End for ClamAV
 app-antivirus/olefy 9999: oletools verify over TCP socket
 app-antivirus/oletools 0.60.2: python tools to analyze MS OLE2 files and MS Office documents, for malware analysis, forensics and debugging
 app-backup/AutoMySQLBackup 3.0_rc10: Create Daily, Weekly and Monthly backups of MySQL databases.
