@@ -1,7 +1,9 @@
 acct-group/mailman 0: System group: mailman
+acct-group/n8n 0: System group: n8n
 acct-group/olefy 0: System group: olefy
 acct-group/razorfy 0: System group: razorfy
 acct-user/mailman 0: System user: mailman
+acct-user/n8n 0: System user: n8n
 acct-user/olefy 0: System user: olefy
 acct-user/razorfy 0: System user: razorfy
 app-admin/jailkit 2.23-r1 9999: Allows you to easily put programs and users in a chrooted environment
@@ -10,6 +12,7 @@ app-antivirus/olefy 9999: oletools verify over TCP socket
 app-antivirus/oletools 0.60.2: python tools to analyze MS OLE2 files and MS Office documents, for malware analysis, forensics and debugging
 app-backup/AutoMySQLBackup 3.0_rc10: Create Daily, Weekly and Monthly backups of MySQL databases.
 app-emulation/wineasio 0.9.2: ASIO driver for WINE
+app-misc/n8n 1.116.1: workflow automation tool. Easily automate tasks across different services.
 app-portage/eclean-package 0.1: Cleaning /etc/portage/package.* from unused entries
 app-text/md2pdf 1.0.1: Markdown to PDF conversion tool
 dev-lang/php 5.6.40-r7 7.4.33-r6 8.1.30: The PHP language runtime engine
