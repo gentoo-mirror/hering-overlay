@@ -74,6 +74,7 @@ media-sound/scdl 9999: Soundcloud Music Downloader
 net-firewall/nft-dns 0.5: Make nftables resolve fqdn on-the-fly
 net-im/caldav-reminder-telegram-bot 9999: CalDAV Reminder Telegram Bot
 net-im/prosody-modules 9999: unofficial modules for prosody
+net-mail/automx2 9999: Mail User Agent (email client) configuration made easy - fixed version
 net-mail/decode-spam-headers 9999: A script that helps you understand why your E-Mail ended up in Spam
 net-mail/dovecot-fts-flatcurve 1.0.5 9999: Dovecot FTS plugin to enable message indexing using Xapian
 net-mail/hyperkitty 1.3.12: A web interface to access GNU Mailman v3 archives
