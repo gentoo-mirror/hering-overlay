@@ -70,7 +70,7 @@ media-libs/asio-sdk 2.3.3: Steinberg ASIO SDK 2.3 - win32
 media-sound/aj-snapshot 0.9.9: Tool for storing/restoring JACK and/or ALSA connections to/from cml files.
 media-sound/hdjd 9999: Hercules DJ Control MP3e2 translation daemon
 media-sound/jack2 1.9.21: Jackdmp jack implemention for multi-processor machine
-media-sound/scdl 9999: Soundcloud Music Downloader
+media-sound/scdl 2.12.4: Soundcloud Music Downloader
 net-firewall/nft-dns 0.5: Make nftables resolve fqdn on-the-fly
 net-im/caldav-reminder-telegram-bot 9999: CalDAV Reminder Telegram Bot
 net-im/prosody-modules 9999: unofficial modules for prosody
